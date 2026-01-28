@@ -1,0 +1,199 @@
+Return to Work (RTW) Analytics Project 🏥📊
+
+🎯 Overview
+This end-to-end analytics project simulates a workers' compensation Return to Work (RTW) program analysis for an insurance company. The project demonstrates the complete data analytics lifecycle—from 
+data generation and cleaning through SQL analysis to interactive Power BI dashboards.Business Goal: Analyze workers' compensation claims to identify cost drivers, optimize RTW outcomes, improve billing efficiency,
+and support strategic decision-making in insurance operations.
+
+💡 Inspiration
+This project was inspired by 4 months of shadowing a strategic expert at Gallagher Bassett, a leading third-party claims administrator. During this experience, I gained firsthand exposure to:
+
+Workers' compensation claim management processes
+Strategic analysis of RTW programs
+Insurance industry KPIs and business intelligence
+The critical role of data analytics in risk management
+
+This shadowing opportunity was transformational—it sparked my passion for data analytics and led me to pursue a degree in Analytics. 
+This project represents my attempt to apply those real-world insights to a comprehensive technical demonstration.
+Special thanks to the Team Manager and Strategic Expert at Gallagher Bassett for this invaluable learning opportunity.
+
+
+🏗️ Project Architecture
+┌─────────────────────────────────────────────────────────┐
+│            DATA GENERATION LAYER                        │
+│              (ChatGPT)                                  │
+│        • 3,000 synthetic claims                         │
+│        • 8,882 service records                          │
+│        • Realistic business rules applied               │
+└────────────────────┬────────────────────────────────────┘
+                     │
+                     ▼
+┌─────────────────────────────────────────────────────────┐
+│              DATA PROCESSING LAYER                      │
+│           (Python - Pandas)                             │
+│        • Data cleaning & validation                     │
+│        • Outlier detection                              │
+│        • Missing value handling                         │
+│        • EDA & statistical analysis                     │
+└────────────────────┬────────────────────────────────────┘
+                     │
+                     ▼
+┌──────────────────────────────────────────────┐
+│               DATABASE LAYER (MySQL)         │
+│        ┌──────────────────────────────┐      │
+│        │      claims (Parent)         │      │
+│        └───────┬──────────────────────┘      │
+│                │                             │
+│    ┌───────────┼──────────┬──────────┬       │
+│    ▼           ▼          ▼          ▼       │
+│  ┌─────┐  ┌──────┐  ┌─────────┐  ┌────────┐  │
+│  │ RTW │  │ Comp │  │Services │  │Billing │  │
+│  └─────┘  └──────┘  └─────────┘  └────────┘  │
+└────────────────────┬─────────────────────────┘
+                     │
+                     ▼
+┌─────────────────────────────────────────────────────────┐
+│           BUSINESS INTELLIGENCE LAYER                   │
+│                   (Power BI)                            │
+│        • Executive dashboards                           │
+│        • Cost analysis visualizations                   │
+│        • RTW outcome tracking                           │
+│        • Billing performance metrics                    │
+└─────────────────────────────────────────────────────────┘
+
+---
+
+## 🛠 Tech Stack
+- **Python**: Pandas, NumPy, Matplotlib, Seaborn, SciPy  
+- **SQL**: MySQL  
+- **Power BI**: Data modelling, DAX, interactive dashboards  
+
+---
+
+## 📊 Project Workflow
+
+### 1️⃣ Data Generation
+- Created **synthetic, realistic datasets using ChatGPT**
+- Simulated claims, injury types, services, employers, costs, and RTW outcomes
+
+### 2️⃣ Python – Data Cleaning & EDA
+- Missing value handling
+- Duplicate detection
+- Feature engineering
+- Exploratory Data Analysis (EDA)
+- Statistical analysis (correlation, ANOVA)
+
+### 3️⃣ SQL – Data Modelling & Analysis
+- Relational table design
+- Joins and aggregations
+- RTW-focused metrics
+- Cost and duration analysis
+- Employer and injury-level insights
+
+### 4️⃣ Power BI – Visualisation
+- RTW vs Non-RTW comparisons
+- High-risk claim identification
+- Cost drivers by service and employer
+- Interactive dashboards for decision support
+
+---
+
+## 🔍 Key Insights
+- Musculoskeletal and psychological injuries drive longer absences
+- Non-RTW claims incur significantly higher costs
+- Medical and income support are primary cost drivers
+- Employer and job role strongly influence days off work
+
+---
+
+## 📁 Repository Contents
+- `notebooks/` → Python cleaning, EDA & statistical analysis  
+- `sql/` → MySQL schema and analytical queries  
+- `powerbi/` → Final RTW dashboard  
+- `data/` → Raw and processed datasets  
+
+---
+
+## 🚀 Skills Demonstrated
+- Data Cleaning & Feature Engineering  
+- SQL Query Design & Optimisation  
+- Statistical Analysis  
+- Business Intelligence & Data Storytelling  
+- End-to-End Analytics Pipeline Development  
+
+---
+
+## 📌 Notes
+All datasets are **synthetically generated for portfolio and learning purposes**.
+
+---
+
+💎 Key Insights
+📈 Business Findings
+
+Average Claim Cost: $40,680 per claim
+RTW Success Rate: 48% achieve Full RTW status
+Primary Cost Driver: Medical expenses (45% of total costs)
+Average Days Off Work: 46 days
+Payment Delays: 30% of invoices delayed beyond 28 days
+High-Risk Injury Types: Musculoskeletal injuries result in longest recovery times
+Service Provider Concentration: Top 10 providers account for 60% of service costs
+Policy Performance: "Early Intervention" policy shows 22% faster payment processing
+
+🎯 Strategic Recommendations
+
+Early Intervention Programs: Focus on musculoskeletal claims to reduce days off work
+Cost Management: Negotiate rates with high-volume service providers
+Billing Optimization: Implement automated payment tracking for "Standard Policy" claims
+RTW Support: Increase support for partial RTW cases to improve full recovery rates
+Risk Segmentation: Develop targeted programs for high-risk job roles (labourers, drivers)
+
+
+📁 Project Structure
+rtw-analytics-project/
+│
+├── data/
+│   ├── raw/
+│   │   ├── claims.csv # all synthetic data sets
+│   │   ├── return_to_work.csv  
+│   │   ├── compensation_costs.csv
+│   │   ├── services_delivered.csv
+│   │   └── billing_policy.csv
+│   └── processed/
+│       └── cleaned_data.csv
+│
+├── notebooks/
+│   ├── datacleaning.ipynb
+│   └── EDA_and_stats.ipynb
+│
+├── sql/
+│   └── RTW_project.sql
+│
+├── powerbi/
+│   └── final_rtw.pbix
+│
+── README.md
+
+
+📫 Contact
+Harsha Padmanabhan
+LinkedIn: https://www.linkedin.com/in/harsha-padmanabhan-49059b55/
+
+🌟 Show Your Support
+If you found this project helpful or interesting, please consider:
+
+⭐ Starring this repository
+🔄 Sharing it with others
+💬 Providing feedback or suggestions
+
+
+Project Status: ✅ Complete | Last Updated: January 2026
+
+Future Enhancements
+
+ Machine learning model for RTW success prediction
+ Real-time dashboard with automated data refresh
+ Integration with external insurance databases
+ Natural language query interface
+ Predictive analytics for claim cost estimation
+ Advanced anomaly detection algorithms
