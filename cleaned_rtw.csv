@@ -1,0 +1,3001 @@
+claim_id,days_off_work,rtw_status,company_name,job_role
+CLM000001,391,Partial,Logitrans,Nurse
+CLM000002,46,Partial,Retailmart,Labourer
+CLM000003,8,Full,Logitrans,Electrician
+CLM000004,27,Partial,Logitrans,Labourer
+CLM000005,29,Partial,Healthplus,Nurse
+CLM000006,20,Partial,Logitrans,Call Centre Agent
+CLM000007,35,Full,Agriworks,Office Administrator
+CLM000008,19,Full,Buildco,Warehouse Operator
+CLM000009,43,Full,Retailmart,Labourer
+CLM000010,7,Full,Healthplus,Labourer
+CLM000011,82,Full,Logitrans,Retail Assistant
+CLM000012,9,Full,Logitrans,Labourer
+CLM000013,26,Full,Logitrans,Project Manager
+CLM000014,18,Full,Retailmart,Warehouse Operator
+CLM000015,42,Not Returned,Buildco,Labourer
+CLM000016,28,Full,Agriworks,Office Administrator
+CLM000017,40,Not Returned,Agriworks,Labourer
+CLM000018,80,Full,Healthplus,Call Centre Agent
+CLM000019,61,Full,Buildco,Retail Assistant
+CLM000020,34,Partial,Buildco,Labourer
+CLM000021,47,Partial,Retailmart,Electrician
+CLM000022,158,Partial,Logitrans,Nurse
+CLM000023,63,Full,Buildco,Labourer
+CLM000024,26,Full,Logitrans,Labourer
+CLM000025,92,Partial,Retailmart,Retail Assistant
+CLM000026,45,Partial,Healthplus,Labourer
+CLM000027,15,Full,Healthplus,Retail Assistant
+CLM000028,28,Full,Logitrans,Office Administrator
+CLM000029,10,Partial,Logitrans,Labourer
+CLM000030,5,Full,Buildco,Support Worker
+CLM000031,15,Full,Retailmart,Electrician
+CLM000032,36,Partial,Healthplus,Truck Driver
+CLM000033,36,Not Returned,Buildco,Office Administrator
+CLM000034,10,Full,Agriworks,Retail Assistant
+CLM000035,4,Full,Buildco,Labourer
+CLM000036,107,Partial,Logitrans,Retail Assistant
+CLM000037,35,Partial,Agriworks,Electrician
+CLM000038,114,Partial,Buildco,Truck Driver
+CLM000039,109,Partial,Retailmart,Electrician
+CLM000040,59,Partial,Healthplus,Office Administrator
+CLM000041,34,Full,Agriworks,Call Centre Agent
+CLM000042,24,Partial,Retailmart,Office Administrator
+CLM000043,58,Partial,Buildco,Nurse
+CLM000044,29,Full,Logitrans,Office Administrator
+CLM000045,20,Full,Logitrans,Warehouse Operator
+CLM000046,6,Full,Retailmart,Support Worker
+CLM000047,30,Not Returned,Logitrans,Warehouse Operator
+CLM000048,79,Full,Healthplus,Labourer
+CLM000049,90,Partial,Retailmart,Nurse
+CLM000050,34,Partial,Retailmart,Retail Assistant
+CLM000051,16,Partial,Logitrans,Nurse
+CLM000052,68,Partial,Retailmart,Truck Driver
+CLM000053,32,Partial,Buildco,Labourer
+CLM000054,24,Full,Agriworks,Support Worker
+CLM000055,10,Full,Agriworks,Labourer
+CLM000056,178,Partial,Logitrans,Labourer
+CLM000057,59,Partial,Healthplus,Call Centre Agent
+CLM000058,65,Partial,Healthplus,Call Centre Agent
+CLM000059,16,Full,Logitrans,Warehouse Operator
+CLM000060,35,Partial,Logitrans,Support Worker
+CLM000061,31,Partial,Retailmart,Retail Assistant
+CLM000062,61,Full,Healthplus,Labourer
+CLM000063,98,Partial,Agriworks,Labourer
+CLM000064,10,Full,Logitrans,Call Centre Agent
+CLM000065,14,Full,Agriworks,Labourer
+CLM000066,55,Full,Agriworks,Project Manager
+CLM000067,22,Full,Healthplus,Call Centre Agent
+CLM000068,63,Partial,Agriworks,Support Worker
+CLM000069,24,Full,Retailmart,Support Worker
+CLM000070,12,Full,Retailmart,Office Administrator
+CLM000071,8,Full,Healthplus,Labourer
+CLM000072,48,Full,Retailmart,Retail Assistant
+CLM000073,49,Partial,Logitrans,Call Centre Agent
+CLM000074,71,Full,Healthplus,Warehouse Operator
+CLM000075,43,Partial,Agriworks,Office Administrator
+CLM000076,1,Full,Logitrans,Labourer
+CLM000077,49,Full,Healthplus,Labourer
+CLM000078,10,Full,Agriworks,Call Centre Agent
+CLM000079,7,Full,Agriworks,Call Centre Agent
+CLM000080,6,Full,Agriworks,Office Administrator
+CLM000081,6,Full,Agriworks,Warehouse Operator
+CLM000082,41,Full,Agriworks,Call Centre Agent
+CLM000083,18,Full,Healthplus,Labourer
+CLM000084,9,Full,Retailmart,Call Centre Agent
+CLM000085,33,Partial,Agriworks,Office Administrator
+CLM000086,13,Full,Logitrans,Call Centre Agent
+CLM000087,72,Not Returned,Healthplus,Retail Assistant
+CLM000088,105,Partial,Buildco,Retail Assistant
+CLM000089,27,Full,Retailmart,Project Manager
+CLM000090,99,Not Returned,Logitrans,Project Manager
+CLM000091,99,Partial,Agriworks,Truck Driver
+CLM000092,35,Full,Healthplus,Project Manager
+CLM000093,132,Partial,Healthplus,Retail Assistant
+CLM000094,20,Full,Agriworks,Truck Driver
+CLM000095,6,Full,Logitrans,Labourer
+CLM000096,9,Full,Healthplus,Labourer
+CLM000097,19,Full,Retailmart,Electrician
+CLM000098,50,Partial,Logitrans,Office Administrator
+CLM000099,13,Full,Agriworks,Electrician
+CLM000100,19,Partial,Logitrans,Nurse
+CLM000101,12,Full,Logitrans,Nurse
+CLM000102,19,Partial,Buildco,Truck Driver
+CLM000103,96,Partial,Agriworks,Retail Assistant
+CLM000104,44,Partial,Retailmart,Labourer
+CLM000105,20,Full,Agriworks,Retail Assistant
+CLM000106,87,Partial,Buildco,Electrician
+CLM000107,33,Partial,Agriworks,Nurse
+CLM000108,36,Full,Agriworks,Nurse
+CLM000109,82,Not Returned,Retailmart,Labourer
+CLM000110,25,Full,Buildco,Labourer
+CLM000111,68,Full,Agriworks,Support Worker
+CLM000112,65,Partial,Agriworks,Labourer
+CLM000113,29,Full,Healthplus,Warehouse Operator
+CLM000114,10,Full,Agriworks,Electrician
+CLM000115,33,Full,Retailmart,Office Administrator
+CLM000116,82,Not Returned,Healthplus,Call Centre Agent
+CLM000117,63,Partial,Buildco,Warehouse Operator
+CLM000118,130,Partial,Logitrans,Electrician
+CLM000119,22,Full,Retailmart,Retail Assistant
+CLM000120,61,Not Returned,Buildco,Office Administrator
+CLM000121,14,Full,Healthplus,Retail Assistant
+CLM000122,38,Not Returned,Logitrans,Electrician
+CLM000123,80,Full,Buildco,Truck Driver
+CLM000124,68,Partial,Retailmart,Truck Driver
+CLM000125,35,Partial,Healthplus,Labourer
+CLM000126,26,Full,Retailmart,Warehouse Operator
+CLM000127,14,Full,Retailmart,Labourer
+CLM000128,27,Full,Healthplus,Labourer
+CLM000129,11,Full,Agriworks,Labourer
+CLM000130,25,Partial,Retailmart,Retail Assistant
+CLM000131,7,Partial,Healthplus,Warehouse Operator
+CLM000132,11,Partial,Retailmart,Project Manager
+CLM000133,65,Partial,Agriworks,Office Administrator
+CLM000134,59,Full,Healthplus,Warehouse Operator
+CLM000135,26,Full,Buildco,Office Administrator
+CLM000136,34,Partial,Buildco,Warehouse Operator
+CLM000137,38,Full,Buildco,Project Manager
+CLM000138,47,Full,Logitrans,Electrician
+CLM000139,43,Partial,Retailmart,Labourer
+CLM000140,11,Full,Retailmart,Retail Assistant
+CLM000141,4,Full,Healthplus,Truck Driver
+CLM000142,14,Full,Logitrans,Labourer
+CLM000143,29,Full,Retailmart,Call Centre Agent
+CLM000144,71,Not Returned,Healthplus,Call Centre Agent
+CLM000145,39,Partial,Agriworks,Warehouse Operator
+CLM000146,50,Partial,Retailmart,Truck Driver
+CLM000147,16,Full,Retailmart,Labourer
+CLM000148,31,Partial,Agriworks,Office Administrator
+CLM000149,34,Partial,Agriworks,Labourer
+CLM000150,18,Full,Retailmart,Project Manager
+CLM000151,14,Partial,Agriworks,Truck Driver
+CLM000152,27,Full,Healthplus,Labourer
+CLM000153,56,Not Returned,Retailmart,Nurse
+CLM000154,16,Full,Retailmart,Labourer
+CLM000155,28,Full,Buildco,Truck Driver
+CLM000156,97,Partial,Retailmart,Labourer
+CLM000157,21,Full,Buildco,Electrician
+CLM000158,33,Partial,Agriworks,Retail Assistant
+CLM000159,30,Not Returned,Agriworks,Call Centre Agent
+CLM000160,28,Partial,Healthplus,Warehouse Operator
+CLM000161,125,Not Returned,Buildco,Nurse
+CLM000162,42,Full,Retailmart,Support Worker
+CLM000163,9,Partial,Buildco,Call Centre Agent
+CLM000164,112,Partial,Agriworks,Call Centre Agent
+CLM000165,41,Partial,Agriworks,Office Administrator
+CLM000166,24,Full,Healthplus,Nurse
+CLM000167,97,Partial,Agriworks,Retail Assistant
+CLM000168,17,Partial,Buildco,Labourer
+CLM000169,130,Not Returned,Retailmart,Support Worker
+CLM000170,35,Partial,Retailmart,Truck Driver
+CLM000171,74,Partial,Buildco,Labourer
+CLM000172,385,Partial,Healthplus,Truck Driver
+CLM000173,38,Partial,Retailmart,Electrician
+CLM000174,30,Partial,Buildco,Call Centre Agent
+CLM000175,14,Full,Buildco,Labourer
+CLM000176,30,Full,Agriworks,Warehouse Operator
+CLM000177,14,Full,Agriworks,Nurse
+CLM000178,28,Full,Healthplus,Warehouse Operator
+CLM000179,335,Partial,Healthplus,Project Manager
+CLM000180,36,Full,Healthplus,Call Centre Agent
+CLM000181,21,Full,Buildco,Warehouse Operator
+CLM000182,28,Full,Buildco,Retail Assistant
+CLM000183,23,Full,Agriworks,Truck Driver
+CLM000184,76,Partial,Retailmart,Warehouse Operator
+CLM000185,30,Partial,Healthplus,Nurse
+CLM000186,119,Partial,Logitrans,Warehouse Operator
+CLM000187,25,Full,Healthplus,Project Manager
+CLM000188,27,Partial,Agriworks,Office Administrator
+CLM000189,16,Full,Buildco,Retail Assistant
+CLM000190,24,Full,Agriworks,Nurse
+CLM000191,8,Full,Agriworks,Retail Assistant
+CLM000192,6,Full,Agriworks,Labourer
+CLM000193,54,Partial,Logitrans,Project Manager
+CLM000194,8,Full,Logitrans,Retail Assistant
+CLM000195,45,Partial,Healthplus,Nurse
+CLM000196,22,Full,Buildco,Truck Driver
+CLM000197,70,Full,Agriworks,Truck Driver
+CLM000198,8,Full,Retailmart,Retail Assistant
+CLM000199,53,Partial,Healthplus,Nurse
+CLM000200,43,Not Returned,Healthplus,Support Worker
+CLM000201,44,Full,Agriworks,Retail Assistant
+CLM000202,81,Partial,Healthplus,Truck Driver
+CLM000203,35,Partial,Agriworks,Nurse
+CLM000204,4,Partial,Healthplus,Electrician
+CLM000205,47,Partial,Buildco,Labourer
+CLM000206,42,Full,Healthplus,Electrician
+CLM000207,27,Full,Healthplus,Warehouse Operator
+CLM000208,16,Full,Retailmart,Warehouse Operator
+CLM000209,24,Full,Buildco,Office Administrator
+CLM000210,106,Partial,Buildco,Support Worker
+CLM000211,15,Partial,Buildco,Office Administrator
+CLM000212,8,Partial,Healthplus,Office Administrator
+CLM000213,10,Full,Logitrans,Nurse
+CLM000214,32,Not Returned,Healthplus,Labourer
+CLM000215,126,Not Returned,Agriworks,Truck Driver
+CLM000216,193,Partial,Retailmart,Nurse
+CLM000217,55,Full,Buildco,Office Administrator
+CLM000218,15,Full,Agriworks,Call Centre Agent
+CLM000219,16,Full,Agriworks,Retail Assistant
+CLM000220,66,Full,Logitrans,Truck Driver
+CLM000221,96,Partial,Buildco,Labourer
+CLM000222,19,Partial,Healthplus,Electrician
+CLM000223,103,Not Returned,Buildco,Project Manager
+CLM000224,27,Full,Retailmart,Support Worker
+CLM000225,58,Not Returned,Buildco,Project Manager
+CLM000226,82,Partial,Agriworks,Office Administrator
+CLM000227,10,Partial,Agriworks,Support Worker
+CLM000228,47,Full,Healthplus,Nurse
+CLM000229,103,Partial,Healthplus,Call Centre Agent
+CLM000230,21,Partial,Healthplus,Warehouse Operator
+CLM000231,14,Full,Retailmart,Labourer
+CLM000232,49,Partial,Buildco,Labourer
+CLM000233,36,Full,Logitrans,Warehouse Operator
+CLM000234,25,Full,Buildco,Nurse
+CLM000235,33,Not Returned,Healthplus,Office Administrator
+CLM000236,8,Full,Retailmart,Warehouse Operator
+CLM000237,45,Partial,Buildco,Project Manager
+CLM000238,118,Partial,Agriworks,Warehouse Operator
+CLM000239,18,Full,Buildco,Support Worker
+CLM000240,17,Full,Agriworks,Labourer
+CLM000241,38,Partial,Buildco,Warehouse Operator
+CLM000242,322,Partial,Buildco,Labourer
+CLM000243,79,Partial,Buildco,Office Administrator
+CLM000244,30,Full,Healthplus,Truck Driver
+CLM000245,34,Full,Agriworks,Warehouse Operator
+CLM000246,86,Partial,Retailmart,Nurse
+CLM000247,15,Full,Logitrans,Labourer
+CLM000248,54,Full,Agriworks,Electrician
+CLM000249,13,Full,Healthplus,Truck Driver
+CLM000250,69,Partial,Agriworks,Labourer
+CLM000251,26,Full,Retailmart,Nurse
+CLM000252,38,Full,Agriworks,Project Manager
+CLM000253,24,Full,Healthplus,Nurse
+CLM000254,57,Full,Healthplus,Office Administrator
+CLM000255,28,Full,Logitrans,Nurse
+CLM000256,186,Not Returned,Retailmart,Office Administrator
+CLM000257,103,Not Returned,Logitrans,Project Manager
+CLM000258,11,Full,Buildco,Project Manager
+CLM000259,38,Full,Healthplus,Truck Driver
+CLM000260,59,Partial,Logitrans,Support Worker
+CLM000261,22,Partial,Healthplus,Office Administrator
+CLM000262,87,Partial,Healthplus,Nurse
+CLM000263,79,Partial,Buildco,Project Manager
+CLM000264,30,Partial,Healthplus,Truck Driver
+CLM000265,72,Partial,Logitrans,Support Worker
+CLM000266,4,Full,Retailmart,Labourer
+CLM000267,98,Not Returned,Agriworks,Office Administrator
+CLM000268,67,Full,Logitrans,Project Manager
+CLM000269,13,Full,Buildco,Office Administrator
+CLM000270,40,Partial,Agriworks,Warehouse Operator
+CLM000271,6,Partial,Healthplus,Labourer
+CLM000272,17,Full,Logitrans,Nurse
+CLM000273,79,Full,Agriworks,Retail Assistant
+CLM000274,32,Full,Logitrans,Project Manager
+CLM000275,31,Partial,Healthplus,Retail Assistant
+CLM000276,34,Partial,Logitrans,Truck Driver
+CLM000277,31,Partial,Buildco,Office Administrator
+CLM000278,72,Full,Agriworks,Office Administrator
+CLM000279,20,Partial,Agriworks,Office Administrator
+CLM000280,46,Not Returned,Agriworks,Truck Driver
+CLM000281,13,Full,Logitrans,Support Worker
+CLM000282,59,Partial,Healthplus,Call Centre Agent
+CLM000283,25,Full,Logitrans,Labourer
+CLM000284,32,Partial,Logitrans,Warehouse Operator
+CLM000285,24,Partial,Agriworks,Electrician
+CLM000286,27,Full,Healthplus,Retail Assistant
+CLM000287,14,Full,Retailmart,Office Administrator
+CLM000288,43,Partial,Healthplus,Labourer
+CLM000289,51,Partial,Logitrans,Retail Assistant
+CLM000290,11,Partial,Buildco,Truck Driver
+CLM000291,20,Partial,Healthplus,Support Worker
+CLM000292,33,Partial,Agriworks,Office Administrator
+CLM000293,20,Partial,Buildco,Support Worker
+CLM000294,27,Full,Retailmart,Support Worker
+CLM000295,120,Partial,Retailmart,Retail Assistant
+CLM000296,14,Full,Buildco,Labourer
+CLM000297,5,Partial,Retailmart,Labourer
+CLM000298,20,Partial,Buildco,Labourer
+CLM000299,25,Full,Logitrans,Nurse
+CLM000300,22,Full,Buildco,Labourer
+CLM000301,41,Partial,Logitrans,Warehouse Operator
+CLM000302,14,Full,Agriworks,Labourer
+CLM000303,12,Partial,Agriworks,Warehouse Operator
+CLM000304,19,Full,Retailmart,Nurse
+CLM000305,19,Full,Buildco,Labourer
+CLM000306,180,Partial,Logitrans,Call Centre Agent
+CLM000307,114,Partial,Agriworks,Office Administrator
+CLM000308,8,Full,Agriworks,Labourer
+CLM000309,7,Full,Agriworks,Office Administrator
+CLM000310,30,Full,Retailmart,Project Manager
+CLM000311,152,Partial,Agriworks,Retail Assistant
+CLM000312,56,Not Returned,Healthplus,Labourer
+CLM000313,32,Full,Retailmart,Electrician
+CLM000314,22,Full,Buildco,Nurse
+CLM000315,78,Partial,Healthplus,Labourer
+CLM000316,38,Partial,Retailmart,Warehouse Operator
+CLM000317,132,Not Returned,Retailmart,Nurse
+CLM000318,8,Full,Logitrans,Office Administrator
+CLM000319,46,Partial,Healthplus,Call Centre Agent
+CLM000320,21,Partial,Healthplus,Truck Driver
+CLM000321,46,Partial,Healthplus,Warehouse Operator
+CLM000322,40,Partial,Agriworks,Nurse
+CLM000323,49,Partial,Agriworks,Nurse
+CLM000324,72,Full,Buildco,Nurse
+CLM000325,100,Not Returned,Buildco,Project Manager
+CLM000326,157,Partial,Buildco,Truck Driver
+CLM000327,33,Not Returned,Agriworks,Project Manager
+CLM000328,21,Full,Logitrans,Truck Driver
+CLM000329,12,Full,Buildco,Support Worker
+CLM000330,46,Not Returned,Retailmart,Nurse
+CLM000331,64,Full,Agriworks,Office Administrator
+CLM000332,11,Partial,Logitrans,Support Worker
+CLM000333,82,Not Returned,Retailmart,Electrician
+CLM000334,30,Partial,Retailmart,Support Worker
+CLM000335,12,Full,Agriworks,Warehouse Operator
+CLM000336,16,Full,Healthplus,Truck Driver
+CLM000337,15,Partial,Logitrans,Retail Assistant
+CLM000338,15,Full,Agriworks,Support Worker
+CLM000339,52,Partial,Healthplus,Call Centre Agent
+CLM000340,66,Not Returned,Agriworks,Labourer
+CLM000341,128,Not Returned,Agriworks,Office Administrator
+CLM000342,18,Partial,Retailmart,Labourer
+CLM000343,43,Full,Agriworks,Labourer
+CLM000344,19,Full,Healthplus,Call Centre Agent
+CLM000345,33,Full,Retailmart,Nurse
+CLM000346,10,Full,Healthplus,Truck Driver
+CLM000347,13,Full,Healthplus,Retail Assistant
+CLM000348,62,Full,Retailmart,Labourer
+CLM000349,10,Partial,Healthplus,Truck Driver
+CLM000350,54,Full,Buildco,Office Administrator
+CLM000351,19,Full,Agriworks,Labourer
+CLM000352,7,Full,Retailmart,Call Centre Agent
+CLM000353,4,Full,Retailmart,Call Centre Agent
+CLM000354,106,Partial,Buildco,Office Administrator
+CLM000355,7,Full,Buildco,Retail Assistant
+CLM000356,31,Partial,Buildco,Office Administrator
+CLM000357,43,Full,Buildco,Project Manager
+CLM000358,11,Full,Logitrans,Office Administrator
+CLM000359,21,Full,Retailmart,Labourer
+CLM000360,48,Full,Healthplus,Support Worker
+CLM000361,41,Full,Retailmart,Warehouse Operator
+CLM000362,22,Full,Retailmart,Office Administrator
+CLM000363,40,Full,Retailmart,Truck Driver
+CLM000364,30,Partial,Buildco,Support Worker
+CLM000365,15,Full,Buildco,Labourer
+CLM000366,86,Partial,Logitrans,Support Worker
+CLM000367,39,Not Returned,Retailmart,Labourer
+CLM000368,7,Full,Agriworks,Truck Driver
+CLM000369,50,Not Returned,Logitrans,Electrician
+CLM000370,20,Full,Buildco,Project Manager
+CLM000371,26,Full,Retailmart,Labourer
+CLM000372,33,Full,Buildco,Office Administrator
+CLM000373,17,Full,Healthplus,Office Administrator
+CLM000374,140,Not Returned,Buildco,Retail Assistant
+CLM000375,10,Full,Buildco,Call Centre Agent
+CLM000376,34,Partial,Logitrans,Labourer
+CLM000377,44,Partial,Healthplus,Support Worker
+CLM000378,34,Full,Agriworks,Call Centre Agent
+CLM000379,28,Full,Agriworks,Truck Driver
+CLM000380,24,Partial,Agriworks,Retail Assistant
+CLM000381,17,Full,Retailmart,Warehouse Operator
+CLM000382,17,Full,Agriworks,Project Manager
+CLM000383,83,Full,Retailmart,Labourer
+CLM000384,23,Full,Buildco,Project Manager
+CLM000385,182,Partial,Agriworks,Retail Assistant
+CLM000386,56,Full,Logitrans,Call Centre Agent
+CLM000387,3,Full,Healthplus,Truck Driver
+CLM000388,67,Partial,Healthplus,Labourer
+CLM000389,31,Partial,Buildco,Labourer
+CLM000390,10,Full,Healthplus,Labourer
+CLM000391,94,Partial,Healthplus,Labourer
+CLM000392,23,Full,Buildco,Office Administrator
+CLM000393,21,Full,Buildco,Warehouse Operator
+CLM000394,44,Not Returned,Buildco,Retail Assistant
+CLM000395,82,Full,Logitrans,Support Worker
+CLM000396,36,Full,Buildco,Truck Driver
+CLM000397,34,Full,Buildco,Call Centre Agent
+CLM000398,18,Partial,Buildco,Nurse
+CLM000399,81,Partial,Agriworks,Warehouse Operator
+CLM000400,36,Partial,Agriworks,Nurse
+CLM000401,27,Full,Logitrans,Electrician
+CLM000402,25,Full,Logitrans,Office Administrator
+CLM000403,75,Partial,Healthplus,Warehouse Operator
+CLM000404,26,Partial,Agriworks,Electrician
+CLM000405,75,Partial,Logitrans,Labourer
+CLM000406,22,Full,Logitrans,Truck Driver
+CLM000407,59,Full,Healthplus,Support Worker
+CLM000408,39,Full,Buildco,Truck Driver
+CLM000409,15,Partial,Retailmart,Retail Assistant
+CLM000410,30,Full,Healthplus,Truck Driver
+CLM000411,5,Partial,Retailmart,Support Worker
+CLM000412,18,Full,Healthplus,Labourer
+CLM000413,9,Full,Healthplus,Electrician
+CLM000414,163,Not Returned,Buildco,Support Worker
+CLM000415,9,Full,Logitrans,Labourer
+CLM000416,262,Partial,Agriworks,Truck Driver
+CLM000417,49,Full,Healthplus,Warehouse Operator
+CLM000418,21,Full,Buildco,Labourer
+CLM000419,63,Full,Retailmart,Retail Assistant
+CLM000420,19,Full,Logitrans,Office Administrator
+CLM000421,10,Full,Healthplus,Warehouse Operator
+CLM000422,35,Full,Retailmart,Truck Driver
+CLM000423,57,Not Returned,Healthplus,Retail Assistant
+CLM000424,92,Partial,Agriworks,Labourer
+CLM000425,49,Partial,Agriworks,Truck Driver
+CLM000426,21,Full,Logitrans,Truck Driver
+CLM000427,100,Not Returned,Retailmart,Warehouse Operator
+CLM000428,83,Partial,Agriworks,Office Administrator
+CLM000429,41,Not Returned,Buildco,Labourer
+CLM000430,87,Full,Logitrans,Truck Driver
+CLM000431,190,Partial,Healthplus,Electrician
+CLM000432,21,Full,Retailmart,Labourer
+CLM000433,16,Full,Retailmart,Electrician
+CLM000434,20,Full,Buildco,Truck Driver
+CLM000435,11,Partial,Agriworks,Nurse
+CLM000436,53,Full,Retailmart,Truck Driver
+CLM000437,9,Partial,Buildco,Labourer
+CLM000438,91,Partial,Buildco,Retail Assistant
+CLM000439,19,Full,Healthplus,Office Administrator
+CLM000440,98,Partial,Buildco,Call Centre Agent
+CLM000441,4,Full,Logitrans,Call Centre Agent
+CLM000442,24,Partial,Retailmart,Office Administrator
+CLM000443,11,Full,Logitrans,Retail Assistant
+CLM000444,97,Not Returned,Buildco,Call Centre Agent
+CLM000445,126,Not Returned,Buildco,Retail Assistant
+CLM000446,5,Full,Logitrans,Office Administrator
+CLM000447,66,Not Returned,Healthplus,Labourer
+CLM000448,77,Full,Buildco,Retail Assistant
+CLM000449,42,Partial,Logitrans,Truck Driver
+CLM000450,53,Full,Logitrans,Truck Driver
+CLM000451,50,Partial,Retailmart,Project Manager
+CLM000452,66,Partial,Healthplus,Labourer
+CLM000453,13,Full,Agriworks,Support Worker
+CLM000454,86,Partial,Logitrans,Warehouse Operator
+CLM000455,39,Full,Retailmart,Call Centre Agent
+CLM000456,37,Full,Agriworks,Electrician
+CLM000457,52,Full,Retailmart,Project Manager
+CLM000458,11,Full,Retailmart,Support Worker
+CLM000459,9,Full,Healthplus,Electrician
+CLM000460,30,Partial,Buildco,Retail Assistant
+CLM000461,113,Partial,Healthplus,Truck Driver
+CLM000462,12,Full,Agriworks,Warehouse Operator
+CLM000463,38,Full,Healthplus,Call Centre Agent
+CLM000464,18,Full,Buildco,Project Manager
+CLM000465,16,Full,Healthplus,Project Manager
+CLM000466,49,Full,Healthplus,Call Centre Agent
+CLM000467,60,Partial,Healthplus,Retail Assistant
+CLM000468,17,Full,Logitrans,Warehouse Operator
+CLM000469,100,Not Returned,Logitrans,Warehouse Operator
+CLM000470,46,Full,Healthplus,Project Manager
+CLM000471,27,Full,Buildco,Labourer
+CLM000472,43,Partial,Buildco,Warehouse Operator
+CLM000473,168,Not Returned,Buildco,Support Worker
+CLM000474,60,Full,Buildco,Office Administrator
+CLM000475,18,Full,Retailmart,Call Centre Agent
+CLM000476,32,Partial,Healthplus,Warehouse Operator
+CLM000477,36,Partial,Healthplus,Retail Assistant
+CLM000478,56,Partial,Retailmart,Retail Assistant
+CLM000479,40,Full,Buildco,Nurse
+CLM000480,150,Partial,Agriworks,Support Worker
+CLM000481,27,Full,Agriworks,Truck Driver
+CLM000482,8,Full,Retailmart,Call Centre Agent
+CLM000483,39,Full,Agriworks,Nurse
+CLM000484,23,Partial,Logitrans,Support Worker
+CLM000485,9,Full,Healthplus,Nurse
+CLM000486,18,Partial,Agriworks,Warehouse Operator
+CLM000487,24,Full,Logitrans,Support Worker
+CLM000488,82,Full,Healthplus,Truck Driver
+CLM000489,10,Full,Logitrans,Truck Driver
+CLM000490,43,Full,Healthplus,Truck Driver
+CLM000491,195,Not Returned,Healthplus,Nurse
+CLM000492,28,Full,Agriworks,Truck Driver
+CLM000493,28,Full,Retailmart,Labourer
+CLM000494,58,Full,Agriworks,Support Worker
+CLM000495,50,Full,Buildco,Electrician
+CLM000496,102,Not Returned,Logitrans,Call Centre Agent
+CLM000497,28,Full,Buildco,Support Worker
+CLM000498,58,Partial,Healthplus,Call Centre Agent
+CLM000499,58,Partial,Agriworks,Retail Assistant
+CLM000500,25,Full,Buildco,Office Administrator
+CLM000501,30,Full,Buildco,Electrician
+CLM000502,32,Partial,Buildco,Project Manager
+CLM000503,12,Full,Healthplus,Truck Driver
+CLM000504,24,Full,Healthplus,Office Administrator
+CLM000505,109,Partial,Healthplus,Labourer
+CLM000506,75,Full,Buildco,Nurse
+CLM000507,20,Full,Logitrans,Office Administrator
+CLM000508,32,Full,Agriworks,Electrician
+CLM000509,72,Full,Agriworks,Support Worker
+CLM000510,47,Full,Healthplus,Project Manager
+CLM000511,62,Full,Buildco,Warehouse Operator
+CLM000512,50,Full,Logitrans,Truck Driver
+CLM000513,39,Partial,Retailmart,Support Worker
+CLM000514,28,Full,Healthplus,Office Administrator
+CLM000515,12,Partial,Retailmart,Electrician
+CLM000516,57,Full,Agriworks,Warehouse Operator
+CLM000517,27,Full,Agriworks,Labourer
+CLM000518,8,Full,Logitrans,Office Administrator
+CLM000519,21,Full,Logitrans,Office Administrator
+CLM000520,65,Full,Retailmart,Electrician
+CLM000521,7,Full,Agriworks,Project Manager
+CLM000522,14,Partial,Logitrans,Labourer
+CLM000523,36,Partial,Logitrans,Office Administrator
+CLM000524,101,Not Returned,Agriworks,Truck Driver
+CLM000525,73,Full,Agriworks,Project Manager
+CLM000526,110,Partial,Buildco,Retail Assistant
+CLM000527,39,Full,Logitrans,Truck Driver
+CLM000528,28,Full,Retailmart,Office Administrator
+CLM000529,65,Partial,Healthplus,Labourer
+CLM000530,16,Partial,Healthplus,Nurse
+CLM000531,15,Full,Agriworks,Office Administrator
+CLM000532,13,Full,Retailmart,Truck Driver
+CLM000533,79,Full,Buildco,Call Centre Agent
+CLM000534,16,Full,Logitrans,Truck Driver
+CLM000535,73,Partial,Buildco,Support Worker
+CLM000536,37,Partial,Retailmart,Truck Driver
+CLM000537,79,Full,Buildco,Labourer
+CLM000538,13,Full,Agriworks,Labourer
+CLM000539,20,Full,Healthplus,Labourer
+CLM000540,47,Full,Agriworks,Retail Assistant
+CLM000541,23,Full,Logitrans,Labourer
+CLM000542,4,Full,Agriworks,Electrician
+CLM000543,11,Full,Retailmart,Warehouse Operator
+CLM000544,13,Partial,Retailmart,Support Worker
+CLM000545,14,Partial,Logitrans,Retail Assistant
+CLM000546,57,Full,Logitrans,Office Administrator
+CLM000547,43,Not Returned,Healthplus,Warehouse Operator
+CLM000548,37,Partial,Buildco,Warehouse Operator
+CLM000549,165,Partial,Healthplus,Retail Assistant
+CLM000550,84,Full,Agriworks,Support Worker
+CLM000551,62,Not Returned,Buildco,Office Administrator
+CLM000552,10,Full,Logitrans,Support Worker
+CLM000553,34,Partial,Retailmart,Nurse
+CLM000554,42,Partial,Agriworks,Warehouse Operator
+CLM000555,23,Full,Healthplus,Truck Driver
+CLM000556,129,Partial,Logitrans,Truck Driver
+CLM000557,34,Full,Buildco,Warehouse Operator
+CLM000558,12,Full,Buildco,Electrician
+CLM000559,14,Full,Retailmart,Retail Assistant
+CLM000560,205,Partial,Logitrans,Retail Assistant
+CLM000561,23,Full,Logitrans,Labourer
+CLM000562,6,Full,Agriworks,Nurse
+CLM000563,20,Full,Agriworks,Retail Assistant
+CLM000564,7,Full,Buildco,Warehouse Operator
+CLM000565,68,Full,Healthplus,Labourer
+CLM000566,6,Full,Buildco,Retail Assistant
+CLM000567,10,Full,Agriworks,Nurse
+CLM000568,33,Not Returned,Agriworks,Support Worker
+CLM000569,80,Full,Agriworks,Support Worker
+CLM000570,31,Full,Buildco,Electrician
+CLM000571,12,Partial,Logitrans,Nurse
+CLM000572,38,Partial,Healthplus,Retail Assistant
+CLM000573,22,Full,Healthplus,Call Centre Agent
+CLM000574,81,Full,Agriworks,Office Administrator
+CLM000575,65,Partial,Retailmart,Nurse
+CLM000576,21,Partial,Buildco,Warehouse Operator
+CLM000577,61,Partial,Logitrans,Call Centre Agent
+CLM000578,41,Full,Agriworks,Support Worker
+CLM000579,98,Not Returned,Retailmart,Retail Assistant
+CLM000580,59,Partial,Agriworks,Office Administrator
+CLM000581,51,Partial,Retailmart,Office Administrator
+CLM000582,95,Partial,Healthplus,Support Worker
+CLM000583,33,Partial,Retailmart,Electrician
+CLM000584,17,Full,Healthplus,Support Worker
+CLM000585,38,Full,Healthplus,Warehouse Operator
+CLM000586,24,Full,Buildco,Retail Assistant
+CLM000587,53,Full,Retailmart,Office Administrator
+CLM000588,34,Partial,Logitrans,Office Administrator
+CLM000589,45,Partial,Logitrans,Call Centre Agent
+CLM000590,12,Full,Retailmart,Truck Driver
+CLM000591,49,Partial,Buildco,Nurse
+CLM000592,11,Partial,Logitrans,Labourer
+CLM000593,71,Full,Agriworks,Electrician
+CLM000594,71,Partial,Logitrans,Labourer
+CLM000595,43,Full,Buildco,Truck Driver
+CLM000596,42,Full,Healthplus,Labourer
+CLM000597,27,Full,Healthplus,Nurse
+CLM000598,20,Full,Healthplus,Labourer
+CLM000599,32,Full,Buildco,Office Administrator
+CLM000600,161,Not Returned,Healthplus,Call Centre Agent
+CLM000601,39,Partial,Healthplus,Labourer
+CLM000602,11,Full,Buildco,Nurse
+CLM000603,8,Full,Agriworks,Retail Assistant
+CLM000604,10,Full,Logitrans,Support Worker
+CLM000605,24,Full,Buildco,Electrician
+CLM000606,91,Partial,Buildco,Retail Assistant
+CLM000607,14,Full,Retailmart,Project Manager
+CLM000608,103,Partial,Healthplus,Retail Assistant
+CLM000609,38,Full,Agriworks,Nurse
+CLM000610,48,Partial,Retailmart,Project Manager
+CLM000611,47,Partial,Agriworks,Electrician
+CLM000612,53,Full,Healthplus,Electrician
+CLM000613,23,Full,Healthplus,Labourer
+CLM000614,5,Full,Healthplus,Project Manager
+CLM000615,20,Partial,Logitrans,Truck Driver
+CLM000616,16,Partial,Agriworks,Truck Driver
+CLM000617,42,Partial,Agriworks,Labourer
+CLM000618,39,Not Returned,Retailmart,Warehouse Operator
+CLM000619,26,Full,Buildco,Project Manager
+CLM000620,134,Not Returned,Healthplus,Office Administrator
+CLM000621,19,Full,Healthplus,Nurse
+CLM000622,5,Full,Retailmart,Electrician
+CLM000623,36,Partial,Agriworks,Labourer
+CLM000624,85,Full,Logitrans,Support Worker
+CLM000625,41,Partial,Agriworks,Nurse
+CLM000626,24,Full,Logitrans,Nurse
+CLM000627,40,Partial,Logitrans,Nurse
+CLM000628,144,Partial,Agriworks,Warehouse Operator
+CLM000629,16,Full,Healthplus,Labourer
+CLM000630,33,Not Returned,Logitrans,Call Centre Agent
+CLM000631,56,Partial,Retailmart,Retail Assistant
+CLM000632,40,Not Returned,Retailmart,Office Administrator
+CLM000633,27,Full,Logitrans,Warehouse Operator
+CLM000634,23,Full,Healthplus,Labourer
+CLM000635,26,Full,Logitrans,Electrician
+CLM000636,50,Full,Retailmart,Project Manager
+CLM000637,48,Full,Retailmart,Nurse
+CLM000638,176,Partial,Agriworks,Warehouse Operator
+CLM000639,9,Partial,Healthplus,Call Centre Agent
+CLM000640,135,Partial,Agriworks,Truck Driver
+CLM000641,28,Partial,Buildco,Support Worker
+CLM000642,30,Partial,Logitrans,Call Centre Agent
+CLM000643,65,Partial,Agriworks,Truck Driver
+CLM000644,65,Full,Healthplus,Project Manager
+CLM000645,83,Full,Logitrans,Labourer
+CLM000646,99,Not Returned,Logitrans,Project Manager
+CLM000647,32,Full,Logitrans,Nurse
+CLM000648,100,Partial,Logitrans,Truck Driver
+CLM000649,20,Full,Logitrans,Office Administrator
+CLM000650,25,Full,Healthplus,Office Administrator
+CLM000651,28,Full,Buildco,Truck Driver
+CLM000652,21,Full,Retailmart,Nurse
+CLM000653,34,Full,Buildco,Labourer
+CLM000654,67,Partial,Retailmart,Office Administrator
+CLM000655,55,Full,Agriworks,Office Administrator
+CLM000656,20,Partial,Logitrans,Warehouse Operator
+CLM000657,18,Full,Agriworks,Retail Assistant
+CLM000658,16,Full,Agriworks,Warehouse Operator
+CLM000659,35,Full,Retailmart,Support Worker
+CLM000660,9,Full,Healthplus,Labourer
+CLM000661,16,Full,Logitrans,Office Administrator
+CLM000662,22,Full,Agriworks,Nurse
+CLM000663,77,Not Returned,Buildco,Office Administrator
+CLM000664,29,Full,Logitrans,Warehouse Operator
+CLM000665,74,Full,Healthplus,Labourer
+CLM000666,38,Full,Logitrans,Truck Driver
+CLM000667,22,Full,Agriworks,Call Centre Agent
+CLM000668,23,Full,Buildco,Nurse
+CLM000669,13,Full,Agriworks,Labourer
+CLM000670,226,Not Returned,Healthplus,Retail Assistant
+CLM000671,80,Partial,Retailmart,Labourer
+CLM000672,53,Partial,Buildco,Retail Assistant
+CLM000673,11,Full,Healthplus,Support Worker
+CLM000674,23,Partial,Healthplus,Nurse
+CLM000675,15,Partial,Agriworks,Truck Driver
+CLM000676,36,Not Returned,Agriworks,Retail Assistant
+CLM000677,15,Full,Agriworks,Nurse
+CLM000678,19,Partial,Retailmart,Support Worker
+CLM000679,16,Full,Logitrans,Support Worker
+CLM000680,27,Full,Logitrans,Retail Assistant
+CLM000681,35,Partial,Agriworks,Truck Driver
+CLM000682,27,Full,Agriworks,Warehouse Operator
+CLM000683,112,Not Returned,Retailmart,Warehouse Operator
+CLM000684,63,Partial,Logitrans,Warehouse Operator
+CLM000685,17,Full,Retailmart,Warehouse Operator
+CLM000686,42,Partial,Healthplus,Warehouse Operator
+CLM000687,18,Partial,Logitrans,Call Centre Agent
+CLM000688,24,Full,Agriworks,Labourer
+CLM000689,48,Full,Buildco,Nurse
+CLM000690,56,Partial,Healthplus,Call Centre Agent
+CLM000691,20,Full,Buildco,Warehouse Operator
+CLM000692,13,Full,Retailmart,Labourer
+CLM000693,35,Full,Retailmart,Labourer
+CLM000694,46,Partial,Retailmart,Labourer
+CLM000695,19,Full,Agriworks,Electrician
+CLM000696,63,Full,Retailmart,Call Centre Agent
+CLM000697,55,Partial,Buildco,Labourer
+CLM000698,19,Partial,Healthplus,Nurse
+CLM000699,81,Not Returned,Agriworks,Warehouse Operator
+CLM000700,83,Full,Healthplus,Office Administrator
+CLM000701,173,Not Returned,Retailmart,Office Administrator
+CLM000702,130,Partial,Logitrans,Office Administrator
+CLM000703,16,Full,Agriworks,Nurse
+CLM000704,69,Partial,Retailmart,Labourer
+CLM000705,66,Full,Agriworks,Truck Driver
+CLM000706,25,Full,Logitrans,Retail Assistant
+CLM000707,47,Full,Buildco,Retail Assistant
+CLM000708,7,Partial,Buildco,Labourer
+CLM000709,7,Full,Buildco,Truck Driver
+CLM000710,8,Full,Logitrans,Truck Driver
+CLM000711,45,Full,Healthplus,Retail Assistant
+CLM000712,46,Full,Logitrans,Warehouse Operator
+CLM000713,26,Partial,Logitrans,Truck Driver
+CLM000714,131,Not Returned,Retailmart,Labourer
+CLM000715,72,Not Returned,Buildco,Call Centre Agent
+CLM000716,9,Full,Agriworks,Nurse
+CLM000717,28,Full,Healthplus,Truck Driver
+CLM000718,15,Full,Agriworks,Retail Assistant
+CLM000719,46,Full,Retailmart,Nurse
+CLM000720,32,Full,Retailmart,Office Administrator
+CLM000721,16,Full,Healthplus,Labourer
+CLM000722,128,Partial,Agriworks,Support Worker
+CLM000723,34,Full,Healthplus,Nurse
+CLM000724,23,Full,Healthplus,Warehouse Operator
+CLM000725,27,Full,Buildco,Retail Assistant
+CLM000726,120,Not Returned,Agriworks,Labourer
+CLM000727,68,Full,Buildco,Call Centre Agent
+CLM000728,29,Full,Buildco,Retail Assistant
+CLM000729,14,Full,Buildco,Retail Assistant
+CLM000730,16,Partial,Logitrans,Electrician
+CLM000731,22,Partial,Retailmart,Labourer
+CLM000732,49,Partial,Retailmart,Electrician
+CLM000733,60,Full,Logitrans,Warehouse Operator
+CLM000734,18,Full,Healthplus,Retail Assistant
+CLM000735,62,Partial,Agriworks,Truck Driver
+CLM000736,16,Partial,Agriworks,Electrician
+CLM000737,20,Partial,Agriworks,Labourer
+CLM000738,10,Partial,Buildco,Office Administrator
+CLM000739,10,Full,Agriworks,Electrician
+CLM000740,15,Partial,Agriworks,Retail Assistant
+CLM000741,32,Partial,Agriworks,Labourer
+CLM000742,14,Partial,Retailmart,Retail Assistant
+CLM000743,109,Partial,Logitrans,Labourer
+CLM000744,15,Full,Healthplus,Call Centre Agent
+CLM000745,38,Full,Logitrans,Truck Driver
+CLM000746,95,Partial,Agriworks,Labourer
+CLM000747,35,Full,Healthplus,Labourer
+CLM000748,24,Partial,Healthplus,Electrician
+CLM000749,37,Full,Logitrans,Nurse
+CLM000750,21,Full,Logitrans,Labourer
+CLM000751,14,Full,Logitrans,Truck Driver
+CLM000752,54,Full,Logitrans,Electrician
+CLM000753,20,Partial,Buildco,Office Administrator
+CLM000754,70,Full,Retailmart,Labourer
+CLM000755,62,Full,Retailmart,Labourer
+CLM000756,37,Not Returned,Agriworks,Truck Driver
+CLM000757,72,Partial,Buildco,Office Administrator
+CLM000758,21,Full,Healthplus,Call Centre Agent
+CLM000759,61,Partial,Logitrans,Electrician
+CLM000760,61,Partial,Agriworks,Support Worker
+CLM000761,26,Full,Healthplus,Labourer
+CLM000762,23,Full,Retailmart,Retail Assistant
+CLM000763,43,Not Returned,Healthplus,Office Administrator
+CLM000764,159,Partial,Logitrans,Call Centre Agent
+CLM000765,27,Full,Logitrans,Retail Assistant
+CLM000766,23,Full,Retailmart,Retail Assistant
+CLM000767,85,Full,Logitrans,Office Administrator
+CLM000768,34,Not Returned,Buildco,Warehouse Operator
+CLM000769,66,Partial,Agriworks,Project Manager
+CLM000770,107,Partial,Retailmart,Truck Driver
+CLM000771,7,Full,Retailmart,Support Worker
+CLM000772,32,Full,Healthplus,Office Administrator
+CLM000773,27,Partial,Retailmart,Support Worker
+CLM000774,15,Full,Agriworks,Retail Assistant
+CLM000775,7,Full,Buildco,Office Administrator
+CLM000776,9,Full,Healthplus,Electrician
+CLM000777,35,Partial,Agriworks,Electrician
+CLM000778,21,Full,Retailmart,Electrician
+CLM000779,17,Full,Logitrans,Truck Driver
+CLM000780,35,Partial,Logitrans,Retail Assistant
+CLM000781,19,Full,Agriworks,Nurse
+CLM000782,92,Not Returned,Buildco,Labourer
+CLM000783,20,Partial,Logitrans,Electrician
+CLM000784,110,Not Returned,Agriworks,Office Administrator
+CLM000785,32,Partial,Healthplus,Labourer
+CLM000786,19,Partial,Retailmart,Labourer
+CLM000787,18,Full,Buildco,Labourer
+CLM000788,111,Partial,Buildco,Truck Driver
+CLM000789,57,Partial,Healthplus,Truck Driver
+CLM000790,18,Full,Buildco,Warehouse Operator
+CLM000791,36,Partial,Agriworks,Electrician
+CLM000792,5,Full,Buildco,Warehouse Operator
+CLM000793,11,Full,Buildco,Electrician
+CLM000794,18,Partial,Buildco,Office Administrator
+CLM000795,17,Full,Agriworks,Truck Driver
+CLM000796,87,Partial,Retailmart,Nurse
+CLM000797,7,Full,Logitrans,Nurse
+CLM000798,10,Full,Buildco,Electrician
+CLM000799,47,Full,Healthplus,Labourer
+CLM000800,39,Partial,Healthplus,Project Manager
+CLM000801,25,Full,Agriworks,Call Centre Agent
+CLM000802,171,Not Returned,Retailmart,Support Worker
+CLM000803,54,Partial,Buildco,Call Centre Agent
+CLM000804,88,Full,Agriworks,Labourer
+CLM000805,31,Full,Logitrans,Office Administrator
+CLM000806,21,Full,Retailmart,Project Manager
+CLM000807,21,Partial,Retailmart,Warehouse Operator
+CLM000808,69,Full,Agriworks,Truck Driver
+CLM000809,61,Not Returned,Healthplus,Support Worker
+CLM000810,27,Partial,Retailmart,Call Centre Agent
+CLM000811,48,Not Returned,Healthplus,Warehouse Operator
+CLM000812,71,Full,Retailmart,Support Worker
+CLM000813,21,Partial,Retailmart,Project Manager
+CLM000814,25,Full,Retailmart,Warehouse Operator
+CLM000815,47,Full,Logitrans,Call Centre Agent
+CLM000816,7,Full,Healthplus,Office Administrator
+CLM000817,48,Not Returned,Logitrans,Office Administrator
+CLM000818,13,Full,Healthplus,Call Centre Agent
+CLM000819,70,Partial,Logitrans,Office Administrator
+CLM000820,184,Partial,Logitrans,Labourer
+CLM000821,18,Full,Logitrans,Retail Assistant
+CLM000822,11,Full,Agriworks,Electrician
+CLM000823,28,Partial,Logitrans,Labourer
+CLM000824,26,Full,Retailmart,Support Worker
+CLM000825,56,Not Returned,Buildco,Truck Driver
+CLM000826,39,Partial,Logitrans,Project Manager
+CLM000827,26,Partial,Buildco,Project Manager
+CLM000828,35,Partial,Buildco,Retail Assistant
+CLM000829,13,Full,Retailmart,Labourer
+CLM000830,64,Partial,Buildco,Retail Assistant
+CLM000831,120,Partial,Buildco,Retail Assistant
+CLM000832,12,Partial,Buildco,Nurse
+CLM000833,9,Full,Healthplus,Nurse
+CLM000834,24,Partial,Logitrans,Support Worker
+CLM000835,12,Full,Logitrans,Call Centre Agent
+CLM000836,11,Full,Buildco,Warehouse Operator
+CLM000837,10,Full,Retailmart,Labourer
+CLM000838,28,Full,Healthplus,Labourer
+CLM000839,23,Full,Retailmart,Support Worker
+CLM000840,44,Partial,Retailmart,Warehouse Operator
+CLM000841,21,Partial,Buildco,Truck Driver
+CLM000842,12,Full,Agriworks,Labourer
+CLM000843,32,Full,Buildco,Retail Assistant
+CLM000844,14,Full,Agriworks,Retail Assistant
+CLM000845,49,Full,Healthplus,Retail Assistant
+CLM000846,8,Partial,Agriworks,Truck Driver
+CLM000847,5,Partial,Buildco,Labourer
+CLM000848,9,Full,Buildco,Support Worker
+CLM000849,23,Partial,Retailmart,Labourer
+CLM000850,26,Full,Buildco,Project Manager
+CLM000851,36,Full,Buildco,Nurse
+CLM000852,21,Full,Logitrans,Office Administrator
+CLM000853,16,Partial,Logitrans,Truck Driver
+CLM000854,104,Not Returned,Retailmart,Retail Assistant
+CLM000855,84,Partial,Agriworks,Truck Driver
+CLM000856,72,Full,Agriworks,Call Centre Agent
+CLM000857,42,Full,Logitrans,Support Worker
+CLM000858,45,Not Returned,Healthplus,Call Centre Agent
+CLM000859,17,Full,Logitrans,Labourer
+CLM000860,37,Partial,Healthplus,Retail Assistant
+CLM000861,15,Full,Agriworks,Office Administrator
+CLM000862,14,Full,Logitrans,Labourer
+CLM000863,9,Full,Buildco,Retail Assistant
+CLM000864,45,Full,Healthplus,Office Administrator
+CLM000865,37,Partial,Healthplus,Retail Assistant
+CLM000866,25,Full,Healthplus,Retail Assistant
+CLM000867,23,Full,Agriworks,Electrician
+CLM000868,7,Full,Retailmart,Labourer
+CLM000869,40,Partial,Buildco,Warehouse Operator
+CLM000870,25,Full,Logitrans,Retail Assistant
+CLM000871,67,Partial,Healthplus,Retail Assistant
+CLM000872,37,Partial,Agriworks,Support Worker
+CLM000873,58,Full,Healthplus,Support Worker
+CLM000874,32,Not Returned,Logitrans,Labourer
+CLM000875,38,Partial,Buildco,Project Manager
+CLM000876,69,Partial,Healthplus,Warehouse Operator
+CLM000877,28,Partial,Agriworks,Warehouse Operator
+CLM000878,48,Full,Agriworks,Call Centre Agent
+CLM000879,23,Full,Retailmart,Warehouse Operator
+CLM000880,29,Full,Agriworks,Retail Assistant
+CLM000881,118,Partial,Retailmart,Labourer
+CLM000882,55,Partial,Buildco,Labourer
+CLM000883,21,Full,Logitrans,Office Administrator
+CLM000884,46,Full,Retailmart,Office Administrator
+CLM000885,11,Full,Healthplus,Labourer
+CLM000886,27,Partial,Healthplus,Office Administrator
+CLM000887,15,Full,Logitrans,Support Worker
+CLM000888,47,Partial,Agriworks,Retail Assistant
+CLM000889,28,Full,Healthplus,Labourer
+CLM000890,41,Full,Retailmart,Project Manager
+CLM000891,61,Full,Logitrans,Call Centre Agent
+CLM000892,22,Full,Healthplus,Labourer
+CLM000893,23,Full,Agriworks,Labourer
+CLM000894,32,Partial,Agriworks,Office Administrator
+CLM000895,16,Full,Healthplus,Warehouse Operator
+CLM000896,32,Partial,Logitrans,Nurse
+CLM000897,34,Full,Buildco,Warehouse Operator
+CLM000898,39,Full,Healthplus,Call Centre Agent
+CLM000899,46,Full,Agriworks,Office Administrator
+CLM000900,9,Full,Buildco,Labourer
+CLM000901,11,Full,Logitrans,Office Administrator
+CLM000902,13,Full,Agriworks,Electrician
+CLM000903,35,Full,Logitrans,Labourer
+CLM000904,26,Full,Healthplus,Retail Assistant
+CLM000905,5,Full,Logitrans,Office Administrator
+CLM000906,157,Partial,Agriworks,Project Manager
+CLM000907,6,Full,Healthplus,Labourer
+CLM000908,33,Full,Agriworks,Project Manager
+CLM000909,51,Not Returned,Agriworks,Call Centre Agent
+CLM000910,18,Full,Buildco,Office Administrator
+CLM000911,55,Partial,Retailmart,Office Administrator
+CLM000912,14,Partial,Logitrans,Labourer
+CLM000913,37,Partial,Logitrans,Retail Assistant
+CLM000914,5,Partial,Buildco,Call Centre Agent
+CLM000915,84,Full,Logitrans,Labourer
+CLM000916,33,Full,Buildco,Labourer
+CLM000917,9,Full,Logitrans,Labourer
+CLM000918,54,Full,Logitrans,Call Centre Agent
+CLM000919,122,Partial,Agriworks,Call Centre Agent
+CLM000920,15,Full,Buildco,Office Administrator
+CLM000921,27,Full,Logitrans,Nurse
+CLM000922,21,Partial,Retailmart,Office Administrator
+CLM000923,17,Full,Buildco,Office Administrator
+CLM000924,16,Full,Buildco,Labourer
+CLM000925,19,Full,Buildco,Warehouse Operator
+CLM000926,20,Full,Agriworks,Labourer
+CLM000927,24,Full,Buildco,Retail Assistant
+CLM000928,23,Full,Agriworks,Truck Driver
+CLM000929,60,Full,Retailmart,Project Manager
+CLM000930,56,Partial,Healthplus,Nurse
+CLM000931,9,Partial,Agriworks,Retail Assistant
+CLM000932,20,Full,Logitrans,Call Centre Agent
+CLM000933,90,Partial,Buildco,Support Worker
+CLM000934,41,Full,Healthplus,Warehouse Operator
+CLM000935,43,Full,Agriworks,Truck Driver
+CLM000936,40,Full,Logitrans,Retail Assistant
+CLM000937,26,Full,Healthplus,Warehouse Operator
+CLM000938,32,Not Returned,Retailmart,Labourer
+CLM000939,23,Full,Agriworks,Truck Driver
+CLM000940,65,Full,Agriworks,Project Manager
+CLM000941,24,Full,Retailmart,Truck Driver
+CLM000942,30,Full,Agriworks,Warehouse Operator
+CLM000943,59,Partial,Buildco,Support Worker
+CLM000944,25,Full,Agriworks,Nurse
+CLM000945,31,Full,Buildco,Retail Assistant
+CLM000946,24,Full,Agriworks,Truck Driver
+CLM000947,30,Full,Logitrans,Office Administrator
+CLM000948,25,Full,Logitrans,Warehouse Operator
+CLM000949,21,Full,Healthplus,Retail Assistant
+CLM000950,18,Full,Logitrans,Call Centre Agent
+CLM000951,28,Full,Retailmart,Project Manager
+CLM000952,74,Full,Healthplus,Office Administrator
+CLM000953,54,Partial,Logitrans,Electrician
+CLM000954,9,Full,Buildco,Electrician
+CLM000955,23,Full,Agriworks,Nurse
+CLM000956,19,Partial,Logitrans,Project Manager
+CLM000957,9,Full,Buildco,Labourer
+CLM000958,41,Partial,Healthplus,Truck Driver
+CLM000959,30,Full,Agriworks,Project Manager
+CLM000960,167,Partial,Logitrans,Nurse
+CLM000961,25,Full,Healthplus,Call Centre Agent
+CLM000962,17,Full,Logitrans,Office Administrator
+CLM000963,16,Partial,Healthplus,Truck Driver
+CLM000964,23,Full,Logitrans,Retail Assistant
+CLM000965,53,Full,Buildco,Call Centre Agent
+CLM000966,58,Full,Retailmart,Electrician
+CLM000967,344,Partial,Buildco,Nurse
+CLM000968,12,Full,Agriworks,Warehouse Operator
+CLM000969,35,Full,Logitrans,Support Worker
+CLM000970,19,Full,Retailmart,Call Centre Agent
+CLM000971,43,Partial,Retailmart,Warehouse Operator
+CLM000972,100,Partial,Agriworks,Truck Driver
+CLM000973,66,Full,Agriworks,Nurse
+CLM000974,12,Full,Retailmart,Electrician
+CLM000975,57,Not Returned,Agriworks,Labourer
+CLM000976,6,Full,Agriworks,Call Centre Agent
+CLM000977,4,Full,Logitrans,Call Centre Agent
+CLM000978,27,Partial,Buildco,Retail Assistant
+CLM000979,53,Full,Healthplus,Truck Driver
+CLM000980,43,Partial,Retailmart,Electrician
+CLM000981,152,Partial,Healthplus,Retail Assistant
+CLM000982,36,Not Returned,Retailmart,Call Centre Agent
+CLM000983,30,Not Returned,Retailmart,Warehouse Operator
+CLM000984,83,Partial,Buildco,Retail Assistant
+CLM000985,24,Full,Retailmart,Truck Driver
+CLM000986,45,Full,Retailmart,Support Worker
+CLM000987,47,Full,Buildco,Truck Driver
+CLM000988,15,Partial,Agriworks,Retail Assistant
+CLM000989,45,Not Returned,Healthplus,Project Manager
+CLM000990,190,Partial,Retailmart,Project Manager
+CLM000991,82,Partial,Buildco,Nurse
+CLM000992,16,Full,Retailmart,Support Worker
+CLM000993,215,Partial,Buildco,Labourer
+CLM000994,57,Partial,Healthplus,Warehouse Operator
+CLM000995,46,Full,Logitrans,Retail Assistant
+CLM000996,30,Full,Agriworks,Nurse
+CLM000997,57,Full,Logitrans,Call Centre Agent
+CLM000998,36,Partial,Buildco,Call Centre Agent
+CLM000999,33,Partial,Retailmart,Electrician
+CLM001000,29,Partial,Agriworks,Warehouse Operator
+CLM001001,72,Partial,Healthplus,Nurse
+CLM001002,66,Partial,Agriworks,Support Worker
+CLM001003,29,Full,Retailmart,Nurse
+CLM001004,9,Partial,Logitrans,Project Manager
+CLM001005,34,Partial,Buildco,Electrician
+CLM001006,18,Full,Logitrans,Support Worker
+CLM001007,22,Full,Agriworks,Retail Assistant
+CLM001008,29,Partial,Retailmart,Nurse
+CLM001009,14,Full,Buildco,Electrician
+CLM001010,9,Full,Retailmart,Warehouse Operator
+CLM001011,41,Partial,Retailmart,Truck Driver
+CLM001012,33,Partial,Agriworks,Support Worker
+CLM001013,32,Partial,Logitrans,Labourer
+CLM001014,49,Full,Retailmart,Warehouse Operator
+CLM001015,19,Full,Retailmart,Support Worker
+CLM001016,43,Partial,Retailmart,Truck Driver
+CLM001017,96,Not Returned,Buildco,Labourer
+CLM001018,27,Full,Retailmart,Call Centre Agent
+CLM001019,151,Partial,Retailmart,Truck Driver
+CLM001020,34,Not Returned,Agriworks,Call Centre Agent
+CLM001021,16,Full,Retailmart,Truck Driver
+CLM001022,65,Partial,Retailmart,Labourer
+CLM001023,30,Full,Agriworks,Office Administrator
+CLM001024,76,Full,Buildco,Retail Assistant
+CLM001025,46,Partial,Logitrans,Call Centre Agent
+CLM001026,25,Full,Agriworks,Call Centre Agent
+CLM001027,111,Partial,Buildco,Truck Driver
+CLM001028,22,Full,Logitrans,Nurse
+CLM001029,5,Full,Retailmart,Truck Driver
+CLM001030,66,Full,Agriworks,Retail Assistant
+CLM001031,43,Full,Retailmart,Labourer
+CLM001032,92,Not Returned,Agriworks,Retail Assistant
+CLM001033,16,Full,Logitrans,Warehouse Operator
+CLM001034,27,Full,Buildco,Support Worker
+CLM001035,24,Full,Agriworks,Retail Assistant
+CLM001036,69,Not Returned,Buildco,Electrician
+CLM001037,55,Full,Retailmart,Retail Assistant
+CLM001038,39,Partial,Retailmart,Retail Assistant
+CLM001039,39,Full,Logitrans,Support Worker
+CLM001040,13,Partial,Logitrans,Call Centre Agent
+CLM001041,61,Partial,Healthplus,Nurse
+CLM001042,62,Partial,Healthplus,Nurse
+CLM001043,207,Partial,Logitrans,Support Worker
+CLM001044,48,Partial,Retailmart,Truck Driver
+CLM001045,54,Full,Buildco,Office Administrator
+CLM001046,48,Not Returned,Logitrans,Electrician
+CLM001047,18,Full,Buildco,Truck Driver
+CLM001048,89,Partial,Healthplus,Labourer
+CLM001049,31,Full,Buildco,Call Centre Agent
+CLM001050,28,Full,Logitrans,Support Worker
+CLM001051,29,Full,Retailmart,Support Worker
+CLM001052,31,Full,Logitrans,Electrician
+CLM001053,22,Full,Agriworks,Office Administrator
+CLM001054,39,Full,Agriworks,Retail Assistant
+CLM001055,30,Full,Agriworks,Truck Driver
+CLM001056,28,Full,Retailmart,Office Administrator
+CLM001057,49,Partial,Logitrans,Truck Driver
+CLM001058,35,Full,Agriworks,Labourer
+CLM001059,21,Full,Logitrans,Labourer
+CLM001060,17,Full,Healthplus,Labourer
+CLM001061,35,Partial,Agriworks,Support Worker
+CLM001062,18,Full,Agriworks,Warehouse Operator
+CLM001063,17,Partial,Retailmart,Project Manager
+CLM001064,17,Partial,Logitrans,Office Administrator
+CLM001065,40,Full,Retailmart,Call Centre Agent
+CLM001066,86,Partial,Retailmart,Warehouse Operator
+CLM001067,43,Full,Logitrans,Nurse
+CLM001068,67,Partial,Healthplus,Nurse
+CLM001069,31,Full,Logitrans,Truck Driver
+CLM001070,37,Full,Healthplus,Support Worker
+CLM001071,124,Partial,Retailmart,Office Administrator
+CLM001072,64,Partial,Healthplus,Office Administrator
+CLM001073,70,Full,Healthplus,Truck Driver
+CLM001074,26,Full,Healthplus,Labourer
+CLM001075,32,Partial,Agriworks,Truck Driver
+CLM001076,45,Full,Agriworks,Office Administrator
+CLM001077,20,Full,Retailmart,Call Centre Agent
+CLM001078,5,Partial,Logitrans,Nurse
+CLM001079,45,Not Returned,Healthplus,Support Worker
+CLM001080,71,Partial,Agriworks,Warehouse Operator
+CLM001081,34,Partial,Logitrans,Project Manager
+CLM001082,20,Full,Healthplus,Office Administrator
+CLM001083,25,Full,Logitrans,Project Manager
+CLM001084,6,Full,Buildco,Office Administrator
+CLM001085,25,Full,Healthplus,Warehouse Operator
+CLM001086,13,Full,Logitrans,Office Administrator
+CLM001087,18,Full,Healthplus,Labourer
+CLM001088,13,Partial,Healthplus,Retail Assistant
+CLM001089,11,Full,Buildco,Electrician
+CLM001090,14,Full,Logitrans,Truck Driver
+CLM001091,54,Partial,Retailmart,Call Centre Agent
+CLM001092,22,Full,Agriworks,Office Administrator
+CLM001093,13,Full,Healthplus,Project Manager
+CLM001094,60,Partial,Healthplus,Warehouse Operator
+CLM001095,36,Partial,Healthplus,Truck Driver
+CLM001096,4,Partial,Healthplus,Office Administrator
+CLM001097,73,Full,Agriworks,Project Manager
+CLM001098,35,Partial,Retailmart,Electrician
+CLM001099,61,Full,Buildco,Project Manager
+CLM001100,27,Full,Retailmart,Office Administrator
+CLM001101,119,Partial,Agriworks,Warehouse Operator
+CLM001102,24,Full,Logitrans,Office Administrator
+CLM001103,4,Full,Buildco,Truck Driver
+CLM001104,16,Full,Buildco,Truck Driver
+CLM001105,49,Full,Logitrans,Labourer
+CLM001106,37,Partial,Healthplus,Office Administrator
+CLM001107,30,Full,Agriworks,Warehouse Operator
+CLM001108,15,Full,Logitrans,Retail Assistant
+CLM001109,33,Full,Retailmart,Labourer
+CLM001110,32,Partial,Retailmart,Call Centre Agent
+CLM001111,32,Partial,Logitrans,Warehouse Operator
+CLM001112,50,Partial,Agriworks,Nurse
+CLM001113,38,Partial,Buildco,Retail Assistant
+CLM001114,27,Full,Buildco,Warehouse Operator
+CLM001115,14,Partial,Healthplus,Labourer
+CLM001116,98,Partial,Agriworks,Labourer
+CLM001117,161,Partial,Retailmart,Office Administrator
+CLM001118,133,Partial,Retailmart,Call Centre Agent
+CLM001119,57,Partial,Healthplus,Nurse
+CLM001120,8,Full,Retailmart,Truck Driver
+CLM001121,7,Full,Healthplus,Labourer
+CLM001122,21,Full,Healthplus,Retail Assistant
+CLM001123,31,Full,Logitrans,Electrician
+CLM001124,30,Not Returned,Buildco,Project Manager
+CLM001125,38,Partial,Agriworks,Retail Assistant
+CLM001126,10,Full,Agriworks,Nurse
+CLM001127,119,Partial,Buildco,Nurse
+CLM001128,110,Partial,Agriworks,Truck Driver
+CLM001129,11,Full,Retailmart,Labourer
+CLM001130,7,Full,Retailmart,Nurse
+CLM001131,30,Full,Agriworks,Labourer
+CLM001132,90,Partial,Logitrans,Support Worker
+CLM001133,32,Partial,Agriworks,Office Administrator
+CLM001134,40,Partial,Healthplus,Warehouse Operator
+CLM001135,23,Full,Healthplus,Labourer
+CLM001136,37,Partial,Buildco,Truck Driver
+CLM001137,70,Not Returned,Retailmart,Labourer
+CLM001138,46,Full,Logitrans,Project Manager
+CLM001139,52,Partial,Agriworks,Warehouse Operator
+CLM001140,8,Full,Healthplus,Call Centre Agent
+CLM001141,183,Partial,Retailmart,Support Worker
+CLM001142,8,Full,Retailmart,Labourer
+CLM001143,37,Full,Logitrans,Support Worker
+CLM001144,29,Full,Logitrans,Office Administrator
+CLM001145,30,Full,Logitrans,Retail Assistant
+CLM001146,66,Partial,Logitrans,Truck Driver
+CLM001147,18,Full,Healthplus,Labourer
+CLM001148,23,Full,Logitrans,Warehouse Operator
+CLM001149,13,Partial,Retailmart,Nurse
+CLM001150,81,Partial,Retailmart,Labourer
+CLM001151,40,Full,Agriworks,Support Worker
+CLM001152,55,Not Returned,Retailmart,Project Manager
+CLM001153,63,Full,Retailmart,Office Administrator
+CLM001154,162,Partial,Healthplus,Truck Driver
+CLM001155,141,Partial,Retailmart,Truck Driver
+CLM001156,42,Partial,Buildco,Electrician
+CLM001157,37,Partial,Retailmart,Warehouse Operator
+CLM001158,21,Full,Agriworks,Truck Driver
+CLM001159,60,Full,Agriworks,Retail Assistant
+CLM001160,58,Full,Logitrans,Labourer
+CLM001161,18,Partial,Healthplus,Nurse
+CLM001162,58,Partial,Agriworks,Project Manager
+CLM001163,74,Partial,Buildco,Electrician
+CLM001164,13,Full,Buildco,Warehouse Operator
+CLM001165,38,Partial,Logitrans,Office Administrator
+CLM001166,31,Full,Healthplus,Support Worker
+CLM001167,32,Full,Healthplus,Office Administrator
+CLM001168,15,Full,Retailmart,Nurse
+CLM001169,7,Full,Buildco,Warehouse Operator
+CLM001170,18,Full,Buildco,Call Centre Agent
+CLM001171,16,Partial,Buildco,Truck Driver
+CLM001172,43,Partial,Buildco,Retail Assistant
+CLM001173,44,Full,Agriworks,Labourer
+CLM001174,42,Partial,Healthplus,Electrician
+CLM001175,10,Partial,Retailmart,Warehouse Operator
+CLM001176,13,Full,Agriworks,Support Worker
+CLM001177,20,Full,Healthplus,Retail Assistant
+CLM001178,33,Full,Logitrans,Support Worker
+CLM001179,25,Full,Buildco,Warehouse Operator
+CLM001180,42,Partial,Retailmart,Labourer
+CLM001181,72,Full,Healthplus,Support Worker
+CLM001182,14,Full,Logitrans,Truck Driver
+CLM001183,15,Full,Buildco,Project Manager
+CLM001184,36,Full,Logitrans,Electrician
+CLM001185,31,Full,Logitrans,Retail Assistant
+CLM001186,60,Partial,Agriworks,Truck Driver
+CLM001187,33,Full,Logitrans,Retail Assistant
+CLM001188,133,Not Returned,Agriworks,Labourer
+CLM001189,9,Full,Agriworks,Retail Assistant
+CLM001190,64,Full,Logitrans,Nurse
+CLM001191,38,Partial,Healthplus,Retail Assistant
+CLM001192,10,Full,Logitrans,Labourer
+CLM001193,6,Full,Logitrans,Truck Driver
+CLM001194,13,Full,Healthplus,Truck Driver
+CLM001195,87,Partial,Buildco,Project Manager
+CLM001196,79,Not Returned,Retailmart,Truck Driver
+CLM001197,29,Full,Buildco,Nurse
+CLM001198,24,Full,Logitrans,Office Administrator
+CLM001199,16,Full,Buildco,Nurse
+CLM001200,28,Full,Retailmart,Warehouse Operator
+CLM001201,22,Full,Buildco,Warehouse Operator
+CLM001202,130,Partial,Retailmart,Warehouse Operator
+CLM001203,12,Full,Buildco,Office Administrator
+CLM001204,45,Full,Agriworks,Retail Assistant
+CLM001205,135,Partial,Logitrans,Retail Assistant
+CLM001206,61,Full,Retailmart,Labourer
+CLM001207,13,Full,Logitrans,Labourer
+CLM001208,9,Full,Agriworks,Warehouse Operator
+CLM001209,41,Partial,Buildco,Warehouse Operator
+CLM001210,37,Not Returned,Logitrans,Labourer
+CLM001211,88,Full,Buildco,Nurse
+CLM001212,51,Partial,Buildco,Office Administrator
+CLM001213,22,Full,Logitrans,Office Administrator
+CLM001214,21,Full,Retailmart,Office Administrator
+CLM001215,11,Full,Retailmart,Nurse
+CLM001216,36,Full,Logitrans,Truck Driver
+CLM001217,10,Full,Retailmart,Electrician
+CLM001218,68,Full,Healthplus,Nurse
+CLM001219,53,Full,Buildco,Labourer
+CLM001220,51,Partial,Logitrans,Warehouse Operator
+CLM001221,11,Full,Agriworks,Labourer
+CLM001222,29,Full,Logitrans,Support Worker
+CLM001223,24,Full,Logitrans,Labourer
+CLM001224,35,Full,Buildco,Support Worker
+CLM001225,50,Full,Agriworks,Warehouse Operator
+CLM001226,21,Full,Buildco,Truck Driver
+CLM001227,22,Full,Retailmart,Labourer
+CLM001228,57,Partial,Logitrans,Office Administrator
+CLM001229,13,Full,Buildco,Labourer
+CLM001230,18,Full,Healthplus,Labourer
+CLM001231,33,Full,Logitrans,Retail Assistant
+CLM001232,68,Full,Retailmart,Call Centre Agent
+CLM001233,15,Full,Buildco,Labourer
+CLM001234,138,Partial,Buildco,Call Centre Agent
+CLM001235,11,Full,Healthplus,Call Centre Agent
+CLM001236,114,Not Returned,Retailmart,Support Worker
+CLM001237,86,Partial,Healthplus,Support Worker
+CLM001238,10,Partial,Logitrans,Retail Assistant
+CLM001239,8,Full,Agriworks,Warehouse Operator
+CLM001240,58,Not Returned,Buildco,Nurse
+CLM001241,24,Full,Healthplus,Nurse
+CLM001242,14,Partial,Buildco,Truck Driver
+CLM001243,141,Partial,Buildco,Retail Assistant
+CLM001244,12,Full,Healthplus,Electrician
+CLM001245,18,Full,Buildco,Electrician
+CLM001246,20,Partial,Retailmart,Project Manager
+CLM001247,3,Full,Retailmart,Truck Driver
+CLM001248,35,Full,Agriworks,Truck Driver
+CLM001249,15,Full,Retailmart,Project Manager
+CLM001250,63,Partial,Healthplus,Labourer
+CLM001251,70,Full,Retailmart,Call Centre Agent
+CLM001252,39,Partial,Agriworks,Truck Driver
+CLM001253,40,Not Returned,Logitrans,Retail Assistant
+CLM001254,37,Partial,Logitrans,Retail Assistant
+CLM001255,18,Full,Healthplus,Electrician
+CLM001256,20,Full,Agriworks,Retail Assistant
+CLM001257,95,Partial,Retailmart,Office Administrator
+CLM001258,59,Full,Agriworks,Labourer
+CLM001259,39,Full,Buildco,Labourer
+CLM001260,53,Partial,Agriworks,Office Administrator
+CLM001261,31,Full,Retailmart,Support Worker
+CLM001262,38,Partial,Healthplus,Support Worker
+CLM001263,53,Not Returned,Buildco,Support Worker
+CLM001264,6,Full,Agriworks,Retail Assistant
+CLM001265,68,Not Returned,Logitrans,Nurse
+CLM001266,64,Partial,Retailmart,Retail Assistant
+CLM001267,17,Full,Healthplus,Retail Assistant
+CLM001268,89,Full,Retailmart,Office Administrator
+CLM001269,5,Full,Agriworks,Support Worker
+CLM001270,43,Full,Healthplus,Truck Driver
+CLM001271,34,Partial,Logitrans,Truck Driver
+CLM001272,25,Full,Buildco,Nurse
+CLM001273,33,Partial,Agriworks,Labourer
+CLM001274,52,Full,Healthplus,Warehouse Operator
+CLM001275,7,Full,Buildco,Labourer
+CLM001276,73,Partial,Healthplus,Warehouse Operator
+CLM001277,23,Full,Agriworks,Warehouse Operator
+CLM001278,74,Full,Healthplus,Call Centre Agent
+CLM001279,55,Full,Logitrans,Project Manager
+CLM001280,23,Partial,Healthplus,Truck Driver
+CLM001281,31,Partial,Agriworks,Retail Assistant
+CLM001282,32,Full,Healthplus,Electrician
+CLM001283,119,Partial,Buildco,Truck Driver
+CLM001284,13,Full,Buildco,Support Worker
+CLM001285,23,Full,Retailmart,Nurse
+CLM001286,9,Full,Retailmart,Electrician
+CLM001287,36,Partial,Logitrans,Retail Assistant
+CLM001288,20,Full,Buildco,Support Worker
+CLM001289,22,Full,Retailmart,Labourer
+CLM001290,108,Not Returned,Healthplus,Electrician
+CLM001291,17,Full,Logitrans,Warehouse Operator
+CLM001292,29,Partial,Agriworks,Labourer
+CLM001293,22,Full,Retailmart,Electrician
+CLM001294,24,Full,Retailmart,Office Administrator
+CLM001295,304,Partial,Buildco,Truck Driver
+CLM001296,8,Full,Logitrans,Retail Assistant
+CLM001297,55,Partial,Buildco,Office Administrator
+CLM001298,230,Not Returned,Buildco,Office Administrator
+CLM001299,78,Full,Logitrans,Warehouse Operator
+CLM001300,34,Partial,Healthplus,Nurse
+CLM001301,12,Full,Retailmart,Electrician
+CLM001302,94,Partial,Buildco,Support Worker
+CLM001303,70,Not Returned,Retailmart,Labourer
+CLM001304,9,Partial,Logitrans,Labourer
+CLM001305,25,Full,Healthplus,Support Worker
+CLM001306,12,Full,Agriworks,Support Worker
+CLM001307,3,Full,Healthplus,Call Centre Agent
+CLM001308,12,Full,Logitrans,Support Worker
+CLM001309,36,Not Returned,Healthplus,Labourer
+CLM001310,52,Full,Agriworks,Office Administrator
+CLM001311,25,Partial,Buildco,Retail Assistant
+CLM001312,99,Partial,Healthplus,Labourer
+CLM001313,75,Full,Logitrans,Truck Driver
+CLM001314,29,Partial,Healthplus,Office Administrator
+CLM001315,27,Full,Agriworks,Truck Driver
+CLM001316,44,Full,Logitrans,Labourer
+CLM001317,32,Partial,Healthplus,Retail Assistant
+CLM001318,10,Full,Logitrans,Call Centre Agent
+CLM001319,26,Full,Agriworks,Electrician
+CLM001320,56,Not Returned,Buildco,Warehouse Operator
+CLM001321,94,Not Returned,Agriworks,Truck Driver
+CLM001322,71,Partial,Buildco,Electrician
+CLM001323,43,Full,Retailmart,Nurse
+CLM001324,106,Partial,Agriworks,Nurse
+CLM001325,46,Not Returned,Buildco,Call Centre Agent
+CLM001326,30,Full,Retailmart,Labourer
+CLM001327,108,Partial,Retailmart,Truck Driver
+CLM001328,58,Partial,Retailmart,Labourer
+CLM001329,93,Partial,Logitrans,Warehouse Operator
+CLM001330,12,Full,Agriworks,Call Centre Agent
+CLM001331,16,Partial,Agriworks,Labourer
+CLM001332,17,Partial,Agriworks,Project Manager
+CLM001333,38,Partial,Agriworks,Retail Assistant
+CLM001334,142,Not Returned,Logitrans,Call Centre Agent
+CLM001335,13,Partial,Agriworks,Electrician
+CLM001336,68,Partial,Buildco,Retail Assistant
+CLM001337,12,Full,Retailmart,Warehouse Operator
+CLM001338,180,Partial,Logitrans,Electrician
+CLM001339,9,Full,Logitrans,Warehouse Operator
+CLM001340,59,Full,Agriworks,Support Worker
+CLM001341,66,Full,Retailmart,Office Administrator
+CLM001342,54,Full,Buildco,Truck Driver
+CLM001343,16,Full,Retailmart,Labourer
+CLM001344,14,Full,Healthplus,Warehouse Operator
+CLM001345,91,Partial,Retailmart,Call Centre Agent
+CLM001346,76,Full,Buildco,Nurse
+CLM001347,75,Partial,Buildco,Truck Driver
+CLM001348,83,Full,Buildco,Call Centre Agent
+CLM001349,9,Partial,Logitrans,Warehouse Operator
+CLM001350,9,Partial,Logitrans,Labourer
+CLM001351,19,Full,Healthplus,Call Centre Agent
+CLM001352,22,Full,Retailmart,Support Worker
+CLM001353,20,Partial,Agriworks,Labourer
+CLM001354,41,Full,Healthplus,Nurse
+CLM001355,80,Not Returned,Agriworks,Nurse
+CLM001356,26,Full,Agriworks,Labourer
+CLM001357,17,Full,Healthplus,Office Administrator
+CLM001358,63,Full,Retailmart,Truck Driver
+CLM001359,26,Full,Agriworks,Office Administrator
+CLM001360,36,Partial,Logitrans,Electrician
+CLM001361,25,Full,Logitrans,Labourer
+CLM001362,43,Partial,Healthplus,Support Worker
+CLM001363,14,Full,Agriworks,Call Centre Agent
+CLM001364,59,Full,Healthplus,Call Centre Agent
+CLM001365,32,Full,Logitrans,Truck Driver
+CLM001366,17,Full,Healthplus,Truck Driver
+CLM001367,50,Full,Agriworks,Call Centre Agent
+CLM001368,17,Full,Agriworks,Labourer
+CLM001369,18,Full,Logitrans,Truck Driver
+CLM001370,12,Full,Buildco,Truck Driver
+CLM001371,8,Full,Buildco,Project Manager
+CLM001372,50,Not Returned,Retailmart,Truck Driver
+CLM001373,84,Partial,Logitrans,Truck Driver
+CLM001374,23,Full,Retailmart,Office Administrator
+CLM001375,17,Full,Logitrans,Retail Assistant
+CLM001376,7,Full,Agriworks,Project Manager
+CLM001377,5,Full,Logitrans,Truck Driver
+CLM001378,59,Not Returned,Healthplus,Call Centre Agent
+CLM001379,6,Full,Retailmart,Labourer
+CLM001380,13,Full,Logitrans,Truck Driver
+CLM001381,41,Partial,Retailmart,Truck Driver
+CLM001382,35,Full,Logitrans,Truck Driver
+CLM001383,42,Full,Buildco,Labourer
+CLM001384,33,Partial,Retailmart,Call Centre Agent
+CLM001385,24,Full,Agriworks,Warehouse Operator
+CLM001386,13,Full,Agriworks,Truck Driver
+CLM001387,19,Full,Logitrans,Warehouse Operator
+CLM001388,26,Full,Agriworks,Truck Driver
+CLM001389,7,Full,Agriworks,Warehouse Operator
+CLM001390,17,Partial,Retailmart,Labourer
+CLM001391,24,Full,Logitrans,Call Centre Agent
+CLM001392,19,Full,Retailmart,Labourer
+CLM001393,25,Full,Logitrans,Call Centre Agent
+CLM001394,56,Full,Agriworks,Retail Assistant
+CLM001395,62,Full,Logitrans,Project Manager
+CLM001396,110,Partial,Logitrans,Warehouse Operator
+CLM001397,9,Full,Healthplus,Electrician
+CLM001398,23,Full,Logitrans,Nurse
+CLM001399,88,Partial,Healthplus,Retail Assistant
+CLM001400,8,Partial,Retailmart,Electrician
+CLM001401,12,Full,Healthplus,Labourer
+CLM001402,20,Full,Retailmart,Support Worker
+CLM001403,169,Partial,Logitrans,Nurse
+CLM001404,15,Full,Retailmart,Electrician
+CLM001405,78,Full,Agriworks,Support Worker
+CLM001406,32,Full,Logitrans,Truck Driver
+CLM001407,13,Partial,Healthplus,Call Centre Agent
+CLM001408,311,Partial,Buildco,Project Manager
+CLM001409,38,Full,Logitrans,Retail Assistant
+CLM001410,44,Partial,Agriworks,Support Worker
+CLM001411,50,Not Returned,Retailmart,Truck Driver
+CLM001412,47,Full,Healthplus,Electrician
+CLM001413,185,Partial,Healthplus,Retail Assistant
+CLM001414,138,Partial,Agriworks,Labourer
+CLM001415,15,Full,Agriworks,Nurse
+CLM001416,166,Partial,Logitrans,Nurse
+CLM001417,18,Full,Buildco,Support Worker
+CLM001418,42,Not Returned,Buildco,Labourer
+CLM001419,10,Full,Retailmart,Office Administrator
+CLM001420,75,Not Returned,Healthplus,Call Centre Agent
+CLM001421,25,Partial,Logitrans,Office Administrator
+CLM001422,13,Full,Healthplus,Call Centre Agent
+CLM001423,85,Partial,Logitrans,Labourer
+CLM001424,104,Partial,Agriworks,Retail Assistant
+CLM001425,107,Not Returned,Retailmart,Retail Assistant
+CLM001426,9,Full,Agriworks,Call Centre Agent
+CLM001427,116,Partial,Healthplus,Retail Assistant
+CLM001428,26,Full,Retailmart,Labourer
+CLM001429,170,Not Returned,Logitrans,Electrician
+CLM001430,54,Full,Logitrans,Labourer
+CLM001431,40,Full,Retailmart,Support Worker
+CLM001432,33,Full,Agriworks,Nurse
+CLM001433,32,Partial,Retailmart,Office Administrator
+CLM001434,19,Partial,Agriworks,Nurse
+CLM001435,14,Partial,Retailmart,Call Centre Agent
+CLM001436,24,Full,Agriworks,Nurse
+CLM001437,85,Partial,Buildco,Retail Assistant
+CLM001438,10,Full,Retailmart,Call Centre Agent
+CLM001439,96,Partial,Agriworks,Warehouse Operator
+CLM001440,37,Full,Healthplus,Nurse
+CLM001441,61,Full,Healthplus,Electrician
+CLM001442,64,Partial,Retailmart,Nurse
+CLM001443,69,Not Returned,Retailmart,Office Administrator
+CLM001444,33,Partial,Logitrans,Call Centre Agent
+CLM001445,34,Partial,Agriworks,Nurse
+CLM001446,67,Full,Retailmart,Warehouse Operator
+CLM001447,14,Partial,Healthplus,Support Worker
+CLM001448,12,Full,Healthplus,Warehouse Operator
+CLM001449,22,Partial,Healthplus,Warehouse Operator
+CLM001450,41,Full,Agriworks,Labourer
+CLM001451,153,Partial,Buildco,Nurse
+CLM001452,34,Partial,Retailmart,Nurse
+CLM001453,164,Partial,Buildco,Project Manager
+CLM001454,50,Partial,Agriworks,Office Administrator
+CLM001455,23,Partial,Retailmart,Electrician
+CLM001456,82,Full,Logitrans,Labourer
+CLM001457,27,Full,Retailmart,Labourer
+CLM001458,40,Partial,Retailmart,Electrician
+CLM001459,11,Full,Retailmart,Call Centre Agent
+CLM001460,9,Full,Retailmart,Warehouse Operator
+CLM001461,51,Partial,Retailmart,Support Worker
+CLM001462,80,Full,Agriworks,Office Administrator
+CLM001463,157,Not Returned,Retailmart,Electrician
+CLM001464,17,Full,Agriworks,Labourer
+CLM001465,106,Not Returned,Retailmart,Office Administrator
+CLM001466,94,Not Returned,Retailmart,Truck Driver
+CLM001467,22,Partial,Agriworks,Project Manager
+CLM001468,100,Partial,Retailmart,Electrician
+CLM001469,70,Full,Healthplus,Warehouse Operator
+CLM001470,82,Full,Retailmart,Truck Driver
+CLM001471,187,Partial,Logitrans,Truck Driver
+CLM001472,79,Partial,Agriworks,Truck Driver
+CLM001473,5,Full,Retailmart,Electrician
+CLM001474,42,Partial,Retailmart,Retail Assistant
+CLM001475,9,Full,Agriworks,Labourer
+CLM001476,37,Full,Buildco,Labourer
+CLM001477,35,Partial,Healthplus,Electrician
+CLM001478,20,Full,Healthplus,Warehouse Operator
+CLM001479,14,Full,Retailmart,Labourer
+CLM001480,21,Full,Agriworks,Support Worker
+CLM001481,25,Partial,Logitrans,Electrician
+CLM001482,29,Full,Retailmart,Labourer
+CLM001483,36,Partial,Healthplus,Call Centre Agent
+CLM001484,52,Full,Retailmart,Labourer
+CLM001485,25,Full,Agriworks,Labourer
+CLM001486,92,Not Returned,Logitrans,Nurse
+CLM001487,32,Partial,Buildco,Labourer
+CLM001488,69,Full,Logitrans,Electrician
+CLM001489,25,Full,Retailmart,Retail Assistant
+CLM001490,297,Partial,Healthplus,Truck Driver
+CLM001491,48,Full,Agriworks,Warehouse Operator
+CLM001492,122,Not Returned,Retailmart,Office Administrator
+CLM001493,19,Full,Buildco,Warehouse Operator
+CLM001494,23,Full,Agriworks,Warehouse Operator
+CLM001495,27,Full,Agriworks,Office Administrator
+CLM001496,239,Partial,Agriworks,Truck Driver
+CLM001497,27,Full,Retailmart,Labourer
+CLM001498,17,Partial,Buildco,Warehouse Operator
+CLM001499,93,Partial,Retailmart,Retail Assistant
+CLM001500,34,Partial,Agriworks,Support Worker
+CLM001501,27,Full,Agriworks,Retail Assistant
+CLM001502,20,Full,Healthplus,Project Manager
+CLM001503,48,Full,Logitrans,Office Administrator
+CLM001504,77,Full,Retailmart,Warehouse Operator
+CLM001505,62,Full,Buildco,Electrician
+CLM001506,22,Full,Agriworks,Labourer
+CLM001507,15,Partial,Retailmart,Warehouse Operator
+CLM001508,1,Full,Logitrans,Electrician
+CLM001509,15,Partial,Retailmart,Support Worker
+CLM001510,24,Full,Logitrans,Warehouse Operator
+CLM001511,31,Full,Retailmart,Call Centre Agent
+CLM001512,26,Full,Healthplus,Truck Driver
+CLM001513,311,Partial,Retailmart,Labourer
+CLM001514,49,Full,Healthplus,Warehouse Operator
+CLM001515,12,Full,Logitrans,Warehouse Operator
+CLM001516,55,Partial,Agriworks,Nurse
+CLM001517,45,Full,Agriworks,Truck Driver
+CLM001518,14,Full,Retailmart,Truck Driver
+CLM001519,41,Full,Buildco,Call Centre Agent
+CLM001520,50,Full,Retailmart,Labourer
+CLM001521,75,Full,Healthplus,Labourer
+CLM001522,8,Full,Healthplus,Warehouse Operator
+CLM001523,55,Full,Logitrans,Warehouse Operator
+CLM001524,102,Not Returned,Retailmart,Labourer
+CLM001525,149,Partial,Logitrans,Support Worker
+CLM001526,12,Full,Buildco,Labourer
+CLM001527,29,Partial,Agriworks,Truck Driver
+CLM001528,31,Partial,Agriworks,Electrician
+CLM001529,56,Full,Retailmart,Office Administrator
+CLM001530,29,Partial,Logitrans,Labourer
+CLM001531,18,Full,Logitrans,Retail Assistant
+CLM001532,39,Full,Buildco,Project Manager
+CLM001533,25,Full,Logitrans,Warehouse Operator
+CLM001534,51,Partial,Healthplus,Truck Driver
+CLM001535,17,Full,Healthplus,Electrician
+CLM001536,14,Full,Healthplus,Office Administrator
+CLM001537,94,Not Returned,Retailmart,Nurse
+CLM001538,203,Partial,Healthplus,Support Worker
+CLM001539,142,Partial,Healthplus,Office Administrator
+CLM001540,31,Partial,Agriworks,Support Worker
+CLM001541,77,Not Returned,Retailmart,Retail Assistant
+CLM001542,19,Full,Healthplus,Truck Driver
+CLM001543,49,Partial,Buildco,Warehouse Operator
+CLM001544,20,Full,Healthplus,Office Administrator
+CLM001545,90,Partial,Retailmart,Truck Driver
+CLM001546,81,Partial,Logitrans,Labourer
+CLM001547,174,Not Returned,Agriworks,Nurse
+CLM001548,27,Full,Agriworks,Retail Assistant
+CLM001549,117,Partial,Retailmart,Office Administrator
+CLM001550,49,Not Returned,Healthplus,Warehouse Operator
+CLM001551,35,Partial,Buildco,Labourer
+CLM001552,43,Full,Healthplus,Office Administrator
+CLM001553,128,Partial,Healthplus,Office Administrator
+CLM001554,29,Full,Buildco,Nurse
+CLM001555,31,Partial,Agriworks,Call Centre Agent
+CLM001556,6,Partial,Healthplus,Labourer
+CLM001557,29,Full,Logitrans,Labourer
+CLM001558,40,Full,Logitrans,Office Administrator
+CLM001559,17,Full,Retailmart,Labourer
+CLM001560,14,Full,Retailmart,Retail Assistant
+CLM001561,7,Full,Buildco,Labourer
+CLM001562,20,Full,Buildco,Call Centre Agent
+CLM001563,103,Partial,Retailmart,Nurse
+CLM001564,10,Full,Healthplus,Nurse
+CLM001565,62,Partial,Agriworks,Truck Driver
+CLM001566,66,Partial,Logitrans,Office Administrator
+CLM001567,235,Partial,Buildco,Truck Driver
+CLM001568,75,Full,Retailmart,Office Administrator
+CLM001569,71,Full,Logitrans,Office Administrator
+CLM001570,44,Partial,Buildco,Truck Driver
+CLM001571,33,Full,Buildco,Call Centre Agent
+CLM001572,65,Partial,Healthplus,Call Centre Agent
+CLM001573,89,Partial,Buildco,Electrician
+CLM001574,37,Full,Agriworks,Retail Assistant
+CLM001575,93,Not Returned,Buildco,Nurse
+CLM001576,332,Partial,Agriworks,Office Administrator
+CLM001577,35,Partial,Healthplus,Labourer
+CLM001578,35,Full,Agriworks,Nurse
+CLM001579,30,Full,Logitrans,Support Worker
+CLM001580,36,Partial,Buildco,Electrician
+CLM001581,88,Full,Retailmart,Office Administrator
+CLM001582,35,Partial,Retailmart,Truck Driver
+CLM001583,38,Partial,Agriworks,Labourer
+CLM001584,27,Full,Healthplus,Support Worker
+CLM001585,48,Full,Agriworks,Retail Assistant
+CLM001586,22,Full,Agriworks,Warehouse Operator
+CLM001587,12,Full,Agriworks,Labourer
+CLM001588,47,Full,Logitrans,Support Worker
+CLM001589,161,Partial,Logitrans,Truck Driver
+CLM001590,26,Partial,Agriworks,Support Worker
+CLM001591,14,Full,Healthplus,Support Worker
+CLM001592,153,Not Returned,Buildco,Call Centre Agent
+CLM001593,34,Full,Retailmart,Warehouse Operator
+CLM001594,70,Full,Logitrans,Truck Driver
+CLM001595,18,Full,Buildco,Labourer
+CLM001596,33,Partial,Logitrans,Nurse
+CLM001597,101,Partial,Logitrans,Call Centre Agent
+CLM001598,36,Partial,Logitrans,Electrician
+CLM001599,37,Partial,Agriworks,Electrician
+CLM001600,10,Full,Agriworks,Truck Driver
+CLM001601,62,Full,Logitrans,Nurse
+CLM001602,17,Partial,Logitrans,Labourer
+CLM001603,81,Partial,Retailmart,Warehouse Operator
+CLM001604,38,Full,Buildco,Retail Assistant
+CLM001605,41,Partial,Buildco,Retail Assistant
+CLM001606,61,Partial,Healthplus,Project Manager
+CLM001607,44,Partial,Healthplus,Labourer
+CLM001608,130,Partial,Healthplus,Office Administrator
+CLM001609,115,Partial,Agriworks,Call Centre Agent
+CLM001610,12,Full,Agriworks,Truck Driver
+CLM001611,28,Full,Retailmart,Call Centre Agent
+CLM001612,64,Partial,Agriworks,Truck Driver
+CLM001613,15,Partial,Healthplus,Nurse
+CLM001614,9,Partial,Logitrans,Labourer
+CLM001615,18,Full,Healthplus,Warehouse Operator
+CLM001616,30,Partial,Retailmart,Labourer
+CLM001617,1,Full,Logitrans,Nurse
+CLM001618,13,Full,Agriworks,Labourer
+CLM001619,7,Full,Logitrans,Nurse
+CLM001620,82,Full,Retailmart,Call Centre Agent
+CLM001621,69,Partial,Agriworks,Retail Assistant
+CLM001622,41,Full,Buildco,Electrician
+CLM001623,35,Full,Healthplus,Warehouse Operator
+CLM001624,51,Partial,Healthplus,Labourer
+CLM001625,14,Full,Retailmart,Warehouse Operator
+CLM001626,90,Partial,Retailmart,Project Manager
+CLM001627,35,Full,Healthplus,Office Administrator
+CLM001628,68,Full,Logitrans,Warehouse Operator
+CLM001629,66,Full,Buildco,Electrician
+CLM001630,50,Partial,Buildco,Nurse
+CLM001631,42,Full,Retailmart,Retail Assistant
+CLM001632,40,Partial,Retailmart,Warehouse Operator
+CLM001633,31,Full,Logitrans,Nurse
+CLM001634,48,Full,Retailmart,Office Administrator
+CLM001635,39,Partial,Buildco,Retail Assistant
+CLM001636,22,Full,Healthplus,Retail Assistant
+CLM001637,53,Partial,Buildco,Office Administrator
+CLM001638,41,Not Returned,Logitrans,Warehouse Operator
+CLM001639,87,Full,Healthplus,Support Worker
+CLM001640,7,Full,Healthplus,Project Manager
+CLM001641,34,Partial,Buildco,Call Centre Agent
+CLM001642,18,Full,Healthplus,Electrician
+CLM001643,21,Full,Healthplus,Support Worker
+CLM001644,51,Full,Retailmart,Office Administrator
+CLM001645,10,Full,Healthplus,Support Worker
+CLM001646,36,Full,Logitrans,Truck Driver
+CLM001647,33,Full,Healthplus,Retail Assistant
+CLM001648,14,Full,Retailmart,Office Administrator
+CLM001649,37,Partial,Agriworks,Office Administrator
+CLM001650,18,Full,Agriworks,Nurse
+CLM001651,192,Partial,Logitrans,Labourer
+CLM001652,86,Partial,Logitrans,Retail Assistant
+CLM001653,34,Not Returned,Healthplus,Nurse
+CLM001654,23,Full,Healthplus,Electrician
+CLM001655,49,Partial,Agriworks,Truck Driver
+CLM001656,61,Full,Agriworks,Electrician
+CLM001657,40,Full,Buildco,Retail Assistant
+CLM001658,14,Full,Agriworks,Call Centre Agent
+CLM001659,28,Partial,Agriworks,Retail Assistant
+CLM001660,35,Full,Logitrans,Labourer
+CLM001661,41,Partial,Buildco,Call Centre Agent
+CLM001662,42,Not Returned,Buildco,Truck Driver
+CLM001663,59,Full,Healthplus,Warehouse Operator
+CLM001664,96,Partial,Healthplus,Truck Driver
+CLM001665,74,Full,Buildco,Truck Driver
+CLM001666,53,Full,Buildco,Electrician
+CLM001667,12,Full,Healthplus,Nurse
+CLM001668,85,Partial,Logitrans,Truck Driver
+CLM001669,63,Full,Logitrans,Nurse
+CLM001670,26,Full,Logitrans,Truck Driver
+CLM001671,33,Full,Logitrans,Support Worker
+CLM001672,34,Not Returned,Healthplus,Office Administrator
+CLM001673,23,Full,Retailmart,Support Worker
+CLM001674,8,Partial,Agriworks,Labourer
+CLM001675,13,Partial,Agriworks,Labourer
+CLM001676,16,Full,Agriworks,Labourer
+CLM001677,6,Full,Agriworks,Call Centre Agent
+CLM001678,13,Full,Healthplus,Electrician
+CLM001679,82,Full,Retailmart,Labourer
+CLM001680,48,Partial,Healthplus,Labourer
+CLM001681,15,Full,Retailmart,Support Worker
+CLM001682,19,Full,Healthplus,Truck Driver
+CLM001683,88,Partial,Buildco,Labourer
+CLM001684,86,Partial,Retailmart,Warehouse Operator
+CLM001685,35,Partial,Agriworks,Warehouse Operator
+CLM001686,84,Full,Retailmart,Nurse
+CLM001687,17,Partial,Logitrans,Warehouse Operator
+CLM001688,39,Partial,Retailmart,Nurse
+CLM001689,10,Full,Logitrans,Truck Driver
+CLM001690,24,Full,Logitrans,Call Centre Agent
+CLM001691,33,Not Returned,Buildco,Labourer
+CLM001692,8,Full,Retailmart,Call Centre Agent
+CLM001693,53,Full,Buildco,Support Worker
+CLM001694,60,Full,Agriworks,Retail Assistant
+CLM001695,74,Full,Retailmart,Warehouse Operator
+CLM001696,214,Not Returned,Healthplus,Truck Driver
+CLM001697,46,Full,Healthplus,Truck Driver
+CLM001698,31,Partial,Healthplus,Warehouse Operator
+CLM001699,9,Full,Logitrans,Retail Assistant
+CLM001700,45,Partial,Healthplus,Office Administrator
+CLM001701,51,Full,Agriworks,Call Centre Agent
+CLM001702,11,Full,Retailmart,Labourer
+CLM001703,27,Full,Retailmart,Warehouse Operator
+CLM001704,33,Full,Logitrans,Office Administrator
+CLM001705,50,Full,Logitrans,Nurse
+CLM001706,65,Partial,Logitrans,Office Administrator
+CLM001707,21,Full,Agriworks,Nurse
+CLM001708,38,Partial,Retailmart,Call Centre Agent
+CLM001709,52,Full,Buildco,Office Administrator
+CLM001710,28,Full,Logitrans,Labourer
+CLM001711,23,Partial,Healthplus,Call Centre Agent
+CLM001712,58,Full,Buildco,Support Worker
+CLM001713,28,Partial,Buildco,Nurse
+CLM001714,12,Full,Logitrans,Labourer
+CLM001715,99,Not Returned,Healthplus,Warehouse Operator
+CLM001716,13,Full,Logitrans,Warehouse Operator
+CLM001717,30,Full,Logitrans,Retail Assistant
+CLM001718,42,Full,Healthplus,Support Worker
+CLM001719,47,Full,Buildco,Labourer
+CLM001720,37,Partial,Buildco,Labourer
+CLM001721,3,Partial,Healthplus,Labourer
+CLM001722,18,Full,Buildco,Office Administrator
+CLM001723,41,Full,Agriworks,Warehouse Operator
+CLM001724,30,Partial,Logitrans,Office Administrator
+CLM001725,49,Partial,Agriworks,Nurse
+CLM001726,74,Full,Agriworks,Electrician
+CLM001727,49,Full,Agriworks,Nurse
+CLM001728,18,Full,Retailmart,Support Worker
+CLM001729,21,Partial,Retailmart,Truck Driver
+CLM001730,122,Not Returned,Agriworks,Support Worker
+CLM001731,28,Full,Logitrans,Electrician
+CLM001732,30,Full,Agriworks,Call Centre Agent
+CLM001733,49,Partial,Agriworks,Support Worker
+CLM001734,89,Not Returned,Retailmart,Office Administrator
+CLM001735,16,Full,Agriworks,Project Manager
+CLM001736,22,Full,Logitrans,Call Centre Agent
+CLM001737,9,Full,Logitrans,Retail Assistant
+CLM001738,26,Full,Agriworks,Labourer
+CLM001739,52,Full,Logitrans,Office Administrator
+CLM001740,24,Partial,Agriworks,Retail Assistant
+CLM001741,135,Partial,Retailmart,Nurse
+CLM001742,36,Partial,Agriworks,Project Manager
+CLM001743,30,Full,Buildco,Labourer
+CLM001744,24,Partial,Retailmart,Retail Assistant
+CLM001745,11,Full,Logitrans,Support Worker
+CLM001746,30,Full,Logitrans,Labourer
+CLM001747,44,Partial,Retailmart,Retail Assistant
+CLM001748,30,Full,Buildco,Warehouse Operator
+CLM001749,39,Not Returned,Retailmart,Labourer
+CLM001750,19,Full,Healthplus,Labourer
+CLM001751,12,Full,Buildco,Call Centre Agent
+CLM001752,30,Partial,Retailmart,Project Manager
+CLM001753,39,Partial,Healthplus,Labourer
+CLM001754,28,Full,Agriworks,Support Worker
+CLM001755,38,Not Returned,Buildco,Warehouse Operator
+CLM001756,61,Full,Agriworks,Truck Driver
+CLM001757,61,Full,Healthplus,Labourer
+CLM001758,65,Partial,Logitrans,Warehouse Operator
+CLM001759,74,Full,Logitrans,Warehouse Operator
+CLM001760,49,Full,Logitrans,Office Administrator
+CLM001761,44,Full,Agriworks,Retail Assistant
+CLM001762,156,Partial,Buildco,Office Administrator
+CLM001763,61,Partial,Agriworks,Labourer
+CLM001764,16,Full,Agriworks,Office Administrator
+CLM001765,7,Partial,Logitrans,Electrician
+CLM001766,27,Full,Agriworks,Labourer
+CLM001767,54,Full,Healthplus,Labourer
+CLM001768,71,Full,Retailmart,Warehouse Operator
+CLM001769,12,Full,Retailmart,Truck Driver
+CLM001770,59,Partial,Retailmart,Office Administrator
+CLM001771,82,Full,Logitrans,Office Administrator
+CLM001772,53,Full,Logitrans,Warehouse Operator
+CLM001773,46,Not Returned,Retailmart,Nurse
+CLM001774,29,Full,Buildco,Project Manager
+CLM001775,22,Full,Retailmart,Warehouse Operator
+CLM001776,62,Full,Agriworks,Retail Assistant
+CLM001777,52,Partial,Retailmart,Office Administrator
+CLM001778,25,Partial,Retailmart,Labourer
+CLM001779,253,Partial,Buildco,Support Worker
+CLM001780,9,Full,Logitrans,Retail Assistant
+CLM001781,27,Partial,Logitrans,Support Worker
+CLM001782,17,Full,Agriworks,Retail Assistant
+CLM001783,45,Partial,Retailmart,Warehouse Operator
+CLM001784,6,Full,Healthplus,Office Administrator
+CLM001785,91,Not Returned,Agriworks,Electrician
+CLM001786,74,Full,Logitrans,Retail Assistant
+CLM001787,41,Full,Buildco,Office Administrator
+CLM001788,25,Full,Logitrans,Call Centre Agent
+CLM001789,58,Partial,Logitrans,Labourer
+CLM001790,43,Partial,Buildco,Warehouse Operator
+CLM001791,70,Full,Retailmart,Warehouse Operator
+CLM001792,30,Partial,Retailmart,Labourer
+CLM001793,28,Full,Logitrans,Warehouse Operator
+CLM001794,78,Partial,Agriworks,Nurse
+CLM001795,54,Full,Healthplus,Project Manager
+CLM001796,28,Full,Agriworks,Call Centre Agent
+CLM001797,44,Partial,Agriworks,Support Worker
+CLM001798,38,Full,Logitrans,Project Manager
+CLM001799,48,Full,Logitrans,Labourer
+CLM001800,91,Partial,Healthplus,Support Worker
+CLM001801,25,Partial,Healthplus,Call Centre Agent
+CLM001802,19,Full,Healthplus,Labourer
+CLM001803,41,Full,Logitrans,Truck Driver
+CLM001804,21,Full,Logitrans,Labourer
+CLM001805,15,Partial,Agriworks,Labourer
+CLM001806,73,Full,Logitrans,Labourer
+CLM001807,26,Full,Retailmart,Retail Assistant
+CLM001808,7,Full,Retailmart,Truck Driver
+CLM001809,65,Partial,Healthplus,Call Centre Agent
+CLM001810,23,Full,Logitrans,Office Administrator
+CLM001811,52,Not Returned,Retailmart,Warehouse Operator
+CLM001812,78,Partial,Agriworks,Call Centre Agent
+CLM001813,38,Partial,Buildco,Support Worker
+CLM001814,6,Full,Agriworks,Labourer
+CLM001815,6,Partial,Buildco,Truck Driver
+CLM001816,19,Full,Agriworks,Labourer
+CLM001817,31,Full,Retailmart,Warehouse Operator
+CLM001818,86,Full,Logitrans,Electrician
+CLM001819,41,Partial,Buildco,Call Centre Agent
+CLM001820,268,Partial,Logitrans,Call Centre Agent
+CLM001821,10,Full,Logitrans,Support Worker
+CLM001822,36,Full,Retailmart,Nurse
+CLM001823,23,Full,Healthplus,Truck Driver
+CLM001824,39,Partial,Healthplus,Truck Driver
+CLM001825,134,Partial,Buildco,Office Administrator
+CLM001826,141,Not Returned,Retailmart,Project Manager
+CLM001827,34,Full,Logitrans,Project Manager
+CLM001828,65,Partial,Agriworks,Support Worker
+CLM001829,39,Full,Agriworks,Electrician
+CLM001830,14,Full,Buildco,Office Administrator
+CLM001831,33,Not Returned,Buildco,Office Administrator
+CLM001832,22,Partial,Buildco,Labourer
+CLM001833,31,Full,Retailmart,Office Administrator
+CLM001834,16,Full,Agriworks,Retail Assistant
+CLM001835,37,Full,Retailmart,Electrician
+CLM001836,42,Partial,Retailmart,Electrician
+CLM001837,58,Partial,Logitrans,Labourer
+CLM001838,42,Full,Retailmart,Nurse
+CLM001839,122,Partial,Retailmart,Warehouse Operator
+CLM001840,191,Not Returned,Logitrans,Nurse
+CLM001841,23,Full,Healthplus,Office Administrator
+CLM001842,71,Full,Logitrans,Nurse
+CLM001843,179,Partial,Buildco,Office Administrator
+CLM001844,73,Full,Healthplus,Support Worker
+CLM001845,58,Partial,Agriworks,Warehouse Operator
+CLM001846,7,Partial,Retailmart,Labourer
+CLM001847,21,Partial,Healthplus,Retail Assistant
+CLM001848,23,Full,Agriworks,Labourer
+CLM001849,100,Not Returned,Logitrans,Labourer
+CLM001850,18,Full,Logitrans,Electrician
+CLM001851,30,Full,Buildco,Project Manager
+CLM001852,64,Not Returned,Buildco,Truck Driver
+CLM001853,17,Full,Healthplus,Labourer
+CLM001854,41,Full,Retailmart,Warehouse Operator
+CLM001855,37,Not Returned,Logitrans,Project Manager
+CLM001856,66,Full,Healthplus,Electrician
+CLM001857,56,Partial,Healthplus,Office Administrator
+CLM001858,54,Not Returned,Healthplus,Warehouse Operator
+CLM001859,38,Partial,Buildco,Labourer
+CLM001860,8,Full,Logitrans,Labourer
+CLM001861,37,Full,Buildco,Call Centre Agent
+CLM001862,34,Full,Buildco,Labourer
+CLM001863,61,Full,Healthplus,Project Manager
+CLM001864,23,Full,Agriworks,Warehouse Operator
+CLM001865,34,Full,Agriworks,Truck Driver
+CLM001866,35,Full,Agriworks,Labourer
+CLM001867,18,Full,Healthplus,Office Administrator
+CLM001868,13,Full,Retailmart,Labourer
+CLM001869,44,Partial,Logitrans,Truck Driver
+CLM001870,74,Full,Healthplus,Office Administrator
+CLM001871,20,Partial,Healthplus,Labourer
+CLM001872,27,Full,Buildco,Electrician
+CLM001873,64,Full,Agriworks,Office Administrator
+CLM001874,69,Full,Healthplus,Retail Assistant
+CLM001875,39,Full,Retailmart,Retail Assistant
+CLM001876,46,Partial,Logitrans,Retail Assistant
+CLM001877,50,Full,Retailmart,Labourer
+CLM001878,58,Not Returned,Healthplus,Labourer
+CLM001879,14,Full,Healthplus,Project Manager
+CLM001880,153,Not Returned,Buildco,Office Administrator
+CLM001881,41,Full,Retailmart,Warehouse Operator
+CLM001882,59,Full,Buildco,Truck Driver
+CLM001883,18,Full,Retailmart,Warehouse Operator
+CLM001884,28,Full,Agriworks,Truck Driver
+CLM001885,44,Partial,Agriworks,Electrician
+CLM001886,7,Full,Retailmart,Electrician
+CLM001887,16,Full,Buildco,Warehouse Operator
+CLM001888,18,Full,Agriworks,Support Worker
+CLM001889,11,Full,Healthplus,Support Worker
+CLM001890,36,Partial,Logitrans,Office Administrator
+CLM001891,31,Partial,Buildco,Labourer
+CLM001892,103,Not Returned,Retailmart,Support Worker
+CLM001893,13,Full,Logitrans,Office Administrator
+CLM001894,39,Not Returned,Logitrans,Office Administrator
+CLM001895,16,Full,Healthplus,Electrician
+CLM001896,8,Full,Buildco,Office Administrator
+CLM001897,52,Full,Logitrans,Warehouse Operator
+CLM001898,56,Not Returned,Buildco,Call Centre Agent
+CLM001899,51,Partial,Healthplus,Electrician
+CLM001900,11,Full,Retailmart,Nurse
+CLM001901,35,Full,Logitrans,Call Centre Agent
+CLM001902,53,Full,Logitrans,Labourer
+CLM001903,70,Partial,Logitrans,Nurse
+CLM001904,54,Partial,Buildco,Retail Assistant
+CLM001905,71,Partial,Logitrans,Retail Assistant
+CLM001906,77,Partial,Buildco,Office Administrator
+CLM001907,36,Full,Agriworks,Truck Driver
+CLM001908,49,Partial,Agriworks,Retail Assistant
+CLM001909,73,Not Returned,Buildco,Project Manager
+CLM001910,45,Partial,Agriworks,Office Administrator
+CLM001911,86,Full,Healthplus,Office Administrator
+CLM001912,66,Full,Healthplus,Support Worker
+CLM001913,19,Partial,Agriworks,Labourer
+CLM001914,11,Full,Retailmart,Support Worker
+CLM001915,33,Partial,Buildco,Electrician
+CLM001916,12,Partial,Agriworks,Electrician
+CLM001917,35,Partial,Buildco,Retail Assistant
+CLM001918,32,Partial,Agriworks,Labourer
+CLM001919,93,Partial,Healthplus,Office Administrator
+CLM001920,49,Full,Retailmart,Labourer
+CLM001921,72,Full,Buildco,Warehouse Operator
+CLM001922,22,Partial,Retailmart,Retail Assistant
+CLM001923,112,Partial,Healthplus,Office Administrator
+CLM001924,67,Full,Logitrans,Truck Driver
+CLM001925,46,Partial,Logitrans,Labourer
+CLM001926,7,Full,Buildco,Support Worker
+CLM001927,85,Partial,Healthplus,Call Centre Agent
+CLM001928,136,Partial,Buildco,Labourer
+CLM001929,33,Partial,Buildco,Nurse
+CLM001930,33,Full,Buildco,Labourer
+CLM001931,21,Full,Retailmart,Call Centre Agent
+CLM001932,8,Full,Agriworks,Project Manager
+CLM001933,21,Full,Healthplus,Electrician
+CLM001934,124,Partial,Retailmart,Project Manager
+CLM001935,78,Partial,Agriworks,Electrician
+CLM001936,17,Full,Buildco,Retail Assistant
+CLM001937,20,Full,Logitrans,Office Administrator
+CLM001938,182,Partial,Retailmart,Office Administrator
+CLM001939,14,Full,Healthplus,Support Worker
+CLM001940,18,Full,Healthplus,Electrician
+CLM001941,23,Partial,Agriworks,Warehouse Operator
+CLM001942,11,Partial,Retailmart,Labourer
+CLM001943,21,Partial,Buildco,Retail Assistant
+CLM001944,21,Full,Agriworks,Labourer
+CLM001945,16,Full,Healthplus,Project Manager
+CLM001946,95,Not Returned,Retailmart,Truck Driver
+CLM001947,13,Full,Logitrans,Nurse
+CLM001948,29,Full,Buildco,Truck Driver
+CLM001949,16,Full,Healthplus,Electrician
+CLM001950,27,Full,Retailmart,Warehouse Operator
+CLM001951,15,Full,Logitrans,Truck Driver
+CLM001952,35,Partial,Healthplus,Electrician
+CLM001953,42,Full,Logitrans,Warehouse Operator
+CLM001954,101,Partial,Healthplus,Labourer
+CLM001955,20,Full,Agriworks,Warehouse Operator
+CLM001956,120,Not Returned,Agriworks,Warehouse Operator
+CLM001957,17,Full,Agriworks,Labourer
+CLM001958,27,Full,Retailmart,Truck Driver
+CLM001959,135,Not Returned,Agriworks,Nurse
+CLM001960,337,Partial,Retailmart,Retail Assistant
+CLM001961,127,Partial,Buildco,Warehouse Operator
+CLM001962,27,Full,Agriworks,Support Worker
+CLM001963,49,Full,Retailmart,Call Centre Agent
+CLM001964,57,Full,Healthplus,Retail Assistant
+CLM001965,43,Full,Retailmart,Office Administrator
+CLM001966,14,Full,Retailmart,Nurse
+CLM001967,39,Partial,Healthplus,Retail Assistant
+CLM001968,22,Full,Retailmart,Nurse
+CLM001969,15,Full,Healthplus,Labourer
+CLM001970,25,Full,Logitrans,Support Worker
+CLM001971,42,Full,Agriworks,Electrician
+CLM001972,73,Partial,Buildco,Labourer
+CLM001973,27,Full,Retailmart,Office Administrator
+CLM001974,31,Partial,Healthplus,Office Administrator
+CLM001975,63,Full,Agriworks,Retail Assistant
+CLM001976,35,Partial,Retailmart,Warehouse Operator
+CLM001977,44,Full,Agriworks,Warehouse Operator
+CLM001978,35,Full,Logitrans,Support Worker
+CLM001979,38,Partial,Retailmart,Nurse
+CLM001980,13,Full,Healthplus,Truck Driver
+CLM001981,36,Full,Logitrans,Call Centre Agent
+CLM001982,103,Not Returned,Retailmart,Truck Driver
+CLM001983,37,Full,Agriworks,Electrician
+CLM001984,16,Full,Logitrans,Retail Assistant
+CLM001985,107,Partial,Healthplus,Support Worker
+CLM001986,58,Partial,Retailmart,Project Manager
+CLM001987,61,Not Returned,Agriworks,Warehouse Operator
+CLM001988,59,Full,Agriworks,Truck Driver
+CLM001989,13,Full,Logitrans,Office Administrator
+CLM001990,55,Partial,Retailmart,Electrician
+CLM001991,100,Partial,Agriworks,Support Worker
+CLM001992,22,Full,Logitrans,Electrician
+CLM001993,7,Full,Buildco,Retail Assistant
+CLM001994,44,Full,Agriworks,Truck Driver
+CLM001995,33,Full,Logitrans,Truck Driver
+CLM001996,9,Full,Buildco,Labourer
+CLM001997,53,Partial,Logitrans,Warehouse Operator
+CLM001998,50,Partial,Agriworks,Project Manager
+CLM001999,10,Full,Buildco,Truck Driver
+CLM002000,150,Partial,Logitrans,Office Administrator
+CLM002001,60,Full,Retailmart,Nurse
+CLM002002,7,Full,Buildco,Labourer
+CLM002003,63,Partial,Logitrans,Nurse
+CLM002004,62,Not Returned,Retailmart,Office Administrator
+CLM002005,102,Not Returned,Buildco,Warehouse Operator
+CLM002006,20,Full,Logitrans,Labourer
+CLM002007,64,Full,Agriworks,Office Administrator
+CLM002008,27,Full,Buildco,Office Administrator
+CLM002009,21,Partial,Buildco,Warehouse Operator
+CLM002010,16,Partial,Retailmart,Office Administrator
+CLM002011,7,Full,Logitrans,Retail Assistant
+CLM002012,51,Full,Agriworks,Support Worker
+CLM002013,26,Full,Retailmart,Retail Assistant
+CLM002014,3,Full,Buildco,Retail Assistant
+CLM002015,35,Partial,Retailmart,Labourer
+CLM002016,83,Partial,Retailmart,Labourer
+CLM002017,11,Full,Retailmart,Support Worker
+CLM002018,18,Partial,Buildco,Office Administrator
+CLM002019,47,Not Returned,Healthplus,Support Worker
+CLM002020,4,Partial,Retailmart,Nurse
+CLM002021,21,Full,Healthplus,Call Centre Agent
+CLM002022,43,Full,Agriworks,Labourer
+CLM002023,21,Full,Agriworks,Project Manager
+CLM002024,11,Full,Agriworks,Warehouse Operator
+CLM002025,12,Full,Logitrans,Retail Assistant
+CLM002026,9,Full,Buildco,Labourer
+CLM002027,19,Full,Healthplus,Warehouse Operator
+CLM002028,77,Full,Logitrans,Warehouse Operator
+CLM002029,219,Partial,Healthplus,Project Manager
+CLM002030,34,Full,Buildco,Labourer
+CLM002031,61,Partial,Retailmart,Call Centre Agent
+CLM002032,15,Full,Logitrans,Retail Assistant
+CLM002033,6,Full,Buildco,Call Centre Agent
+CLM002034,145,Not Returned,Logitrans,Nurse
+CLM002035,20,Full,Agriworks,Project Manager
+CLM002036,58,Partial,Logitrans,Retail Assistant
+CLM002037,37,Partial,Retailmart,Support Worker
+CLM002038,73,Partial,Retailmart,Office Administrator
+CLM002039,71,Full,Healthplus,Project Manager
+CLM002040,41,Not Returned,Logitrans,Project Manager
+CLM002041,45,Not Returned,Agriworks,Support Worker
+CLM002042,87,Partial,Retailmart,Electrician
+CLM002043,23,Full,Healthplus,Nurse
+CLM002044,114,Partial,Agriworks,Nurse
+CLM002045,18,Full,Agriworks,Labourer
+CLM002046,35,Full,Agriworks,Warehouse Operator
+CLM002047,54,Partial,Buildco,Call Centre Agent
+CLM002048,8,Full,Retailmart,Office Administrator
+CLM002049,100,Not Returned,Buildco,Warehouse Operator
+CLM002050,48,Full,Buildco,Support Worker
+CLM002051,464,Partial,Retailmart,Nurse
+CLM002052,174,Partial,Logitrans,Project Manager
+CLM002053,32,Full,Healthplus,Retail Assistant
+CLM002054,138,Partial,Retailmart,Nurse
+CLM002055,65,Partial,Healthplus,Retail Assistant
+CLM002056,39,Partial,Logitrans,Nurse
+CLM002057,8,Full,Retailmart,Call Centre Agent
+CLM002058,10,Full,Agriworks,Project Manager
+CLM002059,33,Full,Retailmart,Nurse
+CLM002060,22,Full,Logitrans,Call Centre Agent
+CLM002061,39,Full,Buildco,Warehouse Operator
+CLM002062,99,Not Returned,Retailmart,Warehouse Operator
+CLM002063,66,Full,Agriworks,Office Administrator
+CLM002064,18,Full,Retailmart,Project Manager
+CLM002065,69,Partial,Buildco,Support Worker
+CLM002066,15,Partial,Retailmart,Retail Assistant
+CLM002067,13,Full,Agriworks,Retail Assistant
+CLM002068,44,Partial,Logitrans,Warehouse Operator
+CLM002069,17,Full,Agriworks,Support Worker
+CLM002070,19,Full,Logitrans,Call Centre Agent
+CLM002071,73,Partial,Agriworks,Office Administrator
+CLM002072,56,Partial,Healthplus,Labourer
+CLM002073,24,Full,Retailmart,Project Manager
+CLM002074,9,Full,Retailmart,Truck Driver
+CLM002075,18,Full,Buildco,Support Worker
+CLM002076,156,Partial,Healthplus,Call Centre Agent
+CLM002077,71,Partial,Buildco,Labourer
+CLM002078,103,Partial,Retailmart,Office Administrator
+CLM002079,40,Full,Buildco,Retail Assistant
+CLM002080,25,Partial,Logitrans,Retail Assistant
+CLM002081,68,Partial,Healthplus,Nurse
+CLM002082,92,Partial,Agriworks,Office Administrator
+CLM002083,22,Partial,Logitrans,Truck Driver
+CLM002084,18,Full,Agriworks,Nurse
+CLM002085,9,Full,Buildco,Labourer
+CLM002086,18,Full,Retailmart,Office Administrator
+CLM002087,56,Full,Logitrans,Call Centre Agent
+CLM002088,20,Full,Healthplus,Labourer
+CLM002089,69,Full,Agriworks,Labourer
+CLM002090,159,Not Returned,Logitrans,Warehouse Operator
+CLM002091,33,Not Returned,Retailmart,Nurse
+CLM002092,32,Partial,Healthplus,Office Administrator
+CLM002093,51,Full,Healthplus,Warehouse Operator
+CLM002094,20,Partial,Agriworks,Warehouse Operator
+CLM002095,19,Full,Logitrans,Retail Assistant
+CLM002096,20,Full,Logitrans,Labourer
+CLM002097,13,Full,Healthplus,Office Administrator
+CLM002098,68,Full,Buildco,Project Manager
+CLM002099,22,Full,Healthplus,Call Centre Agent
+CLM002100,80,Partial,Retailmart,Truck Driver
+CLM002101,50,Partial,Logitrans,Support Worker
+CLM002102,32,Full,Agriworks,Labourer
+CLM002103,63,Partial,Logitrans,Call Centre Agent
+CLM002104,15,Partial,Healthplus,Call Centre Agent
+CLM002105,17,Full,Retailmart,Labourer
+CLM002106,58,Full,Buildco,Support Worker
+CLM002107,5,Full,Logitrans,Retail Assistant
+CLM002108,33,Full,Healthplus,Warehouse Operator
+CLM002109,53,Not Returned,Healthplus,Support Worker
+CLM002110,94,Partial,Healthplus,Support Worker
+CLM002111,111,Partial,Retailmart,Electrician
+CLM002112,29,Full,Healthplus,Electrician
+CLM002113,61,Partial,Healthplus,Truck Driver
+CLM002114,17,Full,Healthplus,Nurse
+CLM002115,23,Full,Logitrans,Labourer
+CLM002116,98,Partial,Healthplus,Nurse
+CLM002117,32,Full,Retailmart,Call Centre Agent
+CLM002118,37,Not Returned,Logitrans,Truck Driver
+CLM002119,14,Partial,Healthplus,Project Manager
+CLM002120,46,Not Returned,Buildco,Support Worker
+CLM002121,60,Not Returned,Retailmart,Call Centre Agent
+CLM002122,59,Partial,Buildco,Office Administrator
+CLM002123,12,Full,Retailmart,Labourer
+CLM002124,73,Partial,Buildco,Support Worker
+CLM002125,14,Full,Healthplus,Office Administrator
+CLM002126,32,Full,Buildco,Project Manager
+CLM002127,9,Full,Buildco,Nurse
+CLM002128,28,Partial,Retailmart,Project Manager
+CLM002129,14,Full,Healthplus,Office Administrator
+CLM002130,23,Partial,Retailmart,Warehouse Operator
+CLM002131,34,Full,Healthplus,Warehouse Operator
+CLM002132,64,Full,Agriworks,Labourer
+CLM002133,62,Full,Logitrans,Support Worker
+CLM002134,5,Full,Logitrans,Labourer
+CLM002135,56,Full,Retailmart,Support Worker
+CLM002136,39,Full,Healthplus,Project Manager
+CLM002137,21,Partial,Buildco,Call Centre Agent
+CLM002138,16,Full,Logitrans,Truck Driver
+CLM002139,31,Full,Retailmart,Labourer
+CLM002140,39,Full,Retailmart,Support Worker
+CLM002141,44,Partial,Retailmart,Warehouse Operator
+CLM002142,28,Full,Healthplus,Retail Assistant
+CLM002143,4,Full,Retailmart,Warehouse Operator
+CLM002144,22,Full,Agriworks,Support Worker
+CLM002145,12,Full,Buildco,Office Administrator
+CLM002146,171,Not Returned,Retailmart,Office Administrator
+CLM002147,34,Partial,Healthplus,Electrician
+CLM002148,59,Full,Buildco,Warehouse Operator
+CLM002149,55,Full,Buildco,Nurse
+CLM002150,42,Full,Logitrans,Electrician
+CLM002151,23,Full,Retailmart,Office Administrator
+CLM002152,21,Full,Retailmart,Support Worker
+CLM002153,6,Full,Healthplus,Labourer
+CLM002154,37,Full,Agriworks,Truck Driver
+CLM002155,42,Full,Agriworks,Project Manager
+CLM002156,31,Not Returned,Logitrans,Call Centre Agent
+CLM002157,37,Partial,Agriworks,Retail Assistant
+CLM002158,12,Partial,Healthplus,Office Administrator
+CLM002159,26,Full,Logitrans,Warehouse Operator
+CLM002160,19,Full,Retailmart,Labourer
+CLM002161,56,Full,Agriworks,Call Centre Agent
+CLM002162,34,Full,Healthplus,Office Administrator
+CLM002163,19,Full,Healthplus,Electrician
+CLM002164,29,Full,Retailmart,Truck Driver
+CLM002165,14,Full,Healthplus,Project Manager
+CLM002166,25,Partial,Logitrans,Office Administrator
+CLM002167,52,Full,Logitrans,Support Worker
+CLM002168,11,Full,Buildco,Warehouse Operator
+CLM002169,31,Full,Retailmart,Support Worker
+CLM002170,18,Full,Healthplus,Retail Assistant
+CLM002171,11,Full,Agriworks,Labourer
+CLM002172,147,Partial,Logitrans,Project Manager
+CLM002173,90,Partial,Retailmart,Project Manager
+CLM002174,20,Full,Retailmart,Office Administrator
+CLM002175,26,Full,Logitrans,Nurse
+CLM002176,6,Full,Buildco,Warehouse Operator
+CLM002177,9,Full,Retailmart,Warehouse Operator
+CLM002178,13,Full,Healthplus,Labourer
+CLM002179,32,Full,Agriworks,Support Worker
+CLM002180,30,Partial,Agriworks,Labourer
+CLM002181,43,Partial,Logitrans,Truck Driver
+CLM002182,56,Full,Retailmart,Nurse
+CLM002183,41,Not Returned,Agriworks,Warehouse Operator
+CLM002184,13,Partial,Retailmart,Office Administrator
+CLM002185,42,Not Returned,Logitrans,Project Manager
+CLM002186,55,Partial,Buildco,Truck Driver
+CLM002187,23,Full,Agriworks,Office Administrator
+CLM002188,7,Full,Healthplus,Truck Driver
+CLM002189,85,Partial,Logitrans,Truck Driver
+CLM002190,35,Not Returned,Buildco,Retail Assistant
+CLM002191,3,Full,Healthplus,Warehouse Operator
+CLM002192,173,Not Returned,Healthplus,Retail Assistant
+CLM002193,22,Full,Agriworks,Nurse
+CLM002194,233,Partial,Retailmart,Retail Assistant
+CLM002195,44,Not Returned,Logitrans,Warehouse Operator
+CLM002196,28,Full,Healthplus,Retail Assistant
+CLM002197,38,Not Returned,Agriworks,Project Manager
+CLM002198,18,Full,Buildco,Labourer
+CLM002199,34,Full,Healthplus,Project Manager
+CLM002200,165,Partial,Buildco,Labourer
+CLM002201,16,Partial,Logitrans,Warehouse Operator
+CLM002202,50,Partial,Agriworks,Support Worker
+CLM002203,18,Full,Buildco,Project Manager
+CLM002204,28,Full,Retailmart,Office Administrator
+CLM002205,160,Partial,Buildco,Office Administrator
+CLM002206,50,Full,Buildco,Truck Driver
+CLM002207,60,Partial,Agriworks,Project Manager
+CLM002208,35,Full,Agriworks,Electrician
+CLM002209,286,Partial,Healthplus,Warehouse Operator
+CLM002210,15,Partial,Buildco,Nurse
+CLM002211,9,Full,Buildco,Labourer
+CLM002212,127,Not Returned,Agriworks,Call Centre Agent
+CLM002213,24,Full,Retailmart,Warehouse Operator
+CLM002214,45,Not Returned,Agriworks,Warehouse Operator
+CLM002215,130,Partial,Retailmart,Retail Assistant
+CLM002216,46,Full,Agriworks,Nurse
+CLM002217,197,Not Returned,Logitrans,Office Administrator
+CLM002218,36,Partial,Buildco,Nurse
+CLM002219,18,Full,Retailmart,Labourer
+CLM002220,5,Partial,Logitrans,Nurse
+CLM002221,42,Partial,Retailmart,Support Worker
+CLM002222,5,Partial,Healthplus,Retail Assistant
+CLM002223,42,Partial,Healthplus,Nurse
+CLM002224,106,Partial,Buildco,Nurse
+CLM002225,32,Full,Logitrans,Electrician
+CLM002226,38,Full,Logitrans,Truck Driver
+CLM002227,68,Partial,Healthplus,Electrician
+CLM002228,56,Full,Buildco,Project Manager
+CLM002229,83,Full,Healthplus,Electrician
+CLM002230,32,Full,Logitrans,Support Worker
+CLM002231,5,Full,Retailmart,Electrician
+CLM002232,84,Partial,Logitrans,Office Administrator
+CLM002233,27,Full,Buildco,Warehouse Operator
+CLM002234,16,Full,Logitrans,Nurse
+CLM002235,43,Not Returned,Agriworks,Warehouse Operator
+CLM002236,38,Partial,Logitrans,Labourer
+CLM002237,18,Partial,Agriworks,Warehouse Operator
+CLM002238,11,Full,Healthplus,Labourer
+CLM002239,48,Full,Agriworks,Retail Assistant
+CLM002240,16,Full,Logitrans,Retail Assistant
+CLM002241,36,Full,Logitrans,Office Administrator
+CLM002242,44,Partial,Logitrans,Electrician
+CLM002243,71,Partial,Buildco,Warehouse Operator
+CLM002244,180,Partial,Healthplus,Retail Assistant
+CLM002245,40,Partial,Agriworks,Office Administrator
+CLM002246,23,Full,Retailmart,Labourer
+CLM002247,124,Partial,Agriworks,Labourer
+CLM002248,76,Partial,Logitrans,Nurse
+CLM002249,37,Not Returned,Retailmart,Labourer
+CLM002250,40,Partial,Retailmart,Nurse
+CLM002251,33,Partial,Agriworks,Labourer
+CLM002252,37,Full,Agriworks,Warehouse Operator
+CLM002253,30,Full,Agriworks,Warehouse Operator
+CLM002254,15,Full,Agriworks,Project Manager
+CLM002255,33,Partial,Healthplus,Warehouse Operator
+CLM002256,135,Partial,Buildco,Warehouse Operator
+CLM002257,17,Full,Buildco,Truck Driver
+CLM002258,26,Partial,Agriworks,Retail Assistant
+CLM002259,16,Partial,Buildco,Nurse
+CLM002260,83,Partial,Agriworks,Retail Assistant
+CLM002261,64,Full,Agriworks,Nurse
+CLM002262,11,Full,Agriworks,Warehouse Operator
+CLM002263,6,Full,Healthplus,Nurse
+CLM002264,66,Partial,Logitrans,Call Centre Agent
+CLM002265,11,Full,Buildco,Nurse
+CLM002266,64,Partial,Buildco,Call Centre Agent
+CLM002267,19,Partial,Healthplus,Warehouse Operator
+CLM002268,57,Full,Healthplus,Truck Driver
+CLM002269,47,Full,Agriworks,Nurse
+CLM002270,21,Full,Agriworks,Support Worker
+CLM002271,16,Partial,Logitrans,Office Administrator
+CLM002272,52,Partial,Buildco,Truck Driver
+CLM002273,19,Full,Healthplus,Warehouse Operator
+CLM002274,80,Full,Logitrans,Electrician
+CLM002275,17,Full,Buildco,Truck Driver
+CLM002276,43,Partial,Logitrans,Warehouse Operator
+CLM002277,24,Full,Logitrans,Project Manager
+CLM002278,33,Partial,Agriworks,Call Centre Agent
+CLM002279,18,Full,Logitrans,Support Worker
+CLM002280,28,Full,Agriworks,Labourer
+CLM002281,4,Partial,Buildco,Office Administrator
+CLM002282,17,Full,Buildco,Labourer
+CLM002283,20,Full,Agriworks,Support Worker
+CLM002284,31,Partial,Retailmart,Support Worker
+CLM002285,93,Partial,Logitrans,Truck Driver
+CLM002286,18,Full,Buildco,Warehouse Operator
+CLM002287,102,Not Returned,Logitrans,Electrician
+CLM002288,16,Partial,Retailmart,Nurse
+CLM002289,13,Full,Logitrans,Support Worker
+CLM002290,7,Full,Retailmart,Truck Driver
+CLM002291,53,Partial,Healthplus,Call Centre Agent
+CLM002292,35,Partial,Retailmart,Nurse
+CLM002293,51,Partial,Buildco,Nurse
+CLM002294,36,Full,Agriworks,Nurse
+CLM002295,32,Full,Agriworks,Office Administrator
+CLM002296,41,Partial,Logitrans,Nurse
+CLM002297,185,Partial,Healthplus,Truck Driver
+CLM002298,22,Partial,Logitrans,Office Administrator
+CLM002299,171,Not Returned,Retailmart,Labourer
+CLM002300,65,Full,Agriworks,Nurse
+CLM002301,44,Partial,Retailmart,Warehouse Operator
+CLM002302,51,Full,Agriworks,Nurse
+CLM002303,2,Full,Agriworks,Office Administrator
+CLM002304,26,Full,Agriworks,Office Administrator
+CLM002305,19,Full,Buildco,Truck Driver
+CLM002306,179,Partial,Retailmart,Warehouse Operator
+CLM002307,25,Full,Logitrans,Retail Assistant
+CLM002308,32,Full,Healthplus,Nurse
+CLM002309,31,Full,Logitrans,Nurse
+CLM002310,11,Full,Retailmart,Truck Driver
+CLM002311,21,Full,Healthplus,Electrician
+CLM002312,63,Not Returned,Logitrans,Nurse
+CLM002313,6,Full,Healthplus,Truck Driver
+CLM002314,42,Partial,Retailmart,Retail Assistant
+CLM002315,16,Full,Agriworks,Truck Driver
+CLM002316,93,Not Returned,Retailmart,Labourer
+CLM002317,45,Full,Buildco,Electrician
+CLM002318,9,Partial,Healthplus,Truck Driver
+CLM002319,23,Full,Retailmart,Call Centre Agent
+CLM002320,47,Partial,Agriworks,Truck Driver
+CLM002321,25,Partial,Agriworks,Project Manager
+CLM002322,37,Partial,Retailmart,Support Worker
+CLM002323,32,Partial,Logitrans,Labourer
+CLM002324,66,Not Returned,Retailmart,Support Worker
+CLM002325,47,Partial,Agriworks,Labourer
+CLM002326,31,Full,Retailmart,Warehouse Operator
+CLM002327,33,Full,Buildco,Office Administrator
+CLM002328,13,Full,Logitrans,Nurse
+CLM002329,107,Partial,Retailmart,Truck Driver
+CLM002330,354,Not Returned,Agriworks,Electrician
+CLM002331,25,Full,Retailmart,Support Worker
+CLM002332,34,Full,Retailmart,Retail Assistant
+CLM002333,74,Partial,Healthplus,Labourer
+CLM002334,74,Full,Retailmart,Electrician
+CLM002335,38,Not Returned,Buildco,Electrician
+CLM002336,15,Partial,Agriworks,Nurse
+CLM002337,141,Not Returned,Healthplus,Warehouse Operator
+CLM002338,57,Partial,Retailmart,Nurse
+CLM002339,39,Full,Logitrans,Electrician
+CLM002340,18,Full,Buildco,Electrician
+CLM002341,34,Full,Buildco,Nurse
+CLM002342,7,Full,Buildco,Office Administrator
+CLM002343,59,Partial,Healthplus,Labourer
+CLM002344,72,Full,Retailmart,Support Worker
+CLM002345,39,Not Returned,Buildco,Project Manager
+CLM002346,15,Partial,Retailmart,Labourer
+CLM002347,47,Full,Logitrans,Retail Assistant
+CLM002348,62,Partial,Retailmart,Electrician
+CLM002349,18,Full,Retailmart,Project Manager
+CLM002350,69,Partial,Retailmart,Labourer
+CLM002351,50,Partial,Agriworks,Warehouse Operator
+CLM002352,26,Full,Healthplus,Labourer
+CLM002353,21,Full,Retailmart,Truck Driver
+CLM002354,28,Full,Buildco,Call Centre Agent
+CLM002355,15,Partial,Agriworks,Labourer
+CLM002356,40,Full,Retailmart,Electrician
+CLM002357,51,Full,Agriworks,Warehouse Operator
+CLM002358,84,Partial,Healthplus,Labourer
+CLM002359,42,Partial,Agriworks,Support Worker
+CLM002360,45,Partial,Buildco,Labourer
+CLM002361,26,Full,Retailmart,Warehouse Operator
+CLM002362,16,Full,Buildco,Nurse
+CLM002363,23,Full,Logitrans,Retail Assistant
+CLM002364,103,Partial,Agriworks,Electrician
+CLM002365,54,Partial,Agriworks,Support Worker
+CLM002366,45,Full,Agriworks,Truck Driver
+CLM002367,7,Full,Healthplus,Office Administrator
+CLM002368,42,Not Returned,Buildco,Nurse
+CLM002369,11,Full,Logitrans,Truck Driver
+CLM002370,12,Partial,Healthplus,Truck Driver
+CLM002371,13,Full,Healthplus,Call Centre Agent
+CLM002372,17,Full,Retailmart,Call Centre Agent
+CLM002373,64,Partial,Logitrans,Truck Driver
+CLM002374,39,Partial,Agriworks,Nurse
+CLM002375,15,Full,Agriworks,Retail Assistant
+CLM002376,20,Partial,Retailmart,Labourer
+CLM002377,49,Full,Agriworks,Retail Assistant
+CLM002378,57,Not Returned,Buildco,Nurse
+CLM002379,36,Full,Agriworks,Labourer
+CLM002380,13,Partial,Buildco,Call Centre Agent
+CLM002381,23,Full,Retailmart,Nurse
+CLM002382,222,Not Returned,Retailmart,Electrician
+CLM002383,12,Full,Buildco,Support Worker
+CLM002384,44,Full,Agriworks,Call Centre Agent
+CLM002385,180,Not Returned,Retailmart,Nurse
+CLM002386,26,Full,Retailmart,Warehouse Operator
+CLM002387,143,Partial,Buildco,Nurse
+CLM002388,19,Partial,Retailmart,Call Centre Agent
+CLM002389,6,Full,Agriworks,Call Centre Agent
+CLM002390,20,Full,Retailmart,Office Administrator
+CLM002391,18,Full,Buildco,Project Manager
+CLM002392,8,Partial,Agriworks,Truck Driver
+CLM002393,23,Full,Logitrans,Retail Assistant
+CLM002394,73,Partial,Buildco,Labourer
+CLM002395,20,Full,Logitrans,Labourer
+CLM002396,24,Partial,Retailmart,Nurse
+CLM002397,99,Not Returned,Agriworks,Labourer
+CLM002398,18,Full,Retailmart,Office Administrator
+CLM002399,54,Partial,Agriworks,Office Administrator
+CLM002400,8,Full,Healthplus,Office Administrator
+CLM002401,15,Full,Retailmart,Truck Driver
+CLM002402,27,Full,Retailmart,Project Manager
+CLM002403,87,Not Returned,Retailmart,Retail Assistant
+CLM002404,15,Full,Buildco,Labourer
+CLM002405,15,Full,Agriworks,Nurse
+CLM002406,41,Full,Agriworks,Warehouse Operator
+CLM002407,46,Partial,Agriworks,Labourer
+CLM002408,14,Full,Buildco,Office Administrator
+CLM002409,21,Full,Agriworks,Office Administrator
+CLM002410,78,Partial,Retailmart,Warehouse Operator
+CLM002411,12,Full,Logitrans,Truck Driver
+CLM002412,43,Not Returned,Healthplus,Truck Driver
+CLM002413,21,Full,Agriworks,Labourer
+CLM002414,101,Partial,Buildco,Nurse
+CLM002415,52,Full,Buildco,Retail Assistant
+CLM002416,66,Not Returned,Agriworks,Office Administrator
+CLM002417,21,Partial,Logitrans,Nurse
+CLM002418,64,Full,Agriworks,Warehouse Operator
+CLM002419,62,Full,Buildco,Warehouse Operator
+CLM002420,50,Full,Healthplus,Labourer
+CLM002421,26,Full,Logitrans,Electrician
+CLM002422,37,Partial,Agriworks,Labourer
+CLM002423,7,Full,Healthplus,Warehouse Operator
+CLM002424,135,Not Returned,Agriworks,Labourer
+CLM002425,20,Full,Logitrans,Electrician
+CLM002426,25,Full,Buildco,Labourer
+CLM002427,11,Full,Logitrans,Nurse
+CLM002428,56,Full,Retailmart,Office Administrator
+CLM002429,50,Full,Agriworks,Support Worker
+CLM002430,26,Full,Healthplus,Warehouse Operator
+CLM002431,5,Full,Healthplus,Warehouse Operator
+CLM002432,18,Partial,Logitrans,Electrician
+CLM002433,47,Partial,Logitrans,Project Manager
+CLM002434,40,Partial,Logitrans,Nurse
+CLM002435,31,Partial,Healthplus,Labourer
+CLM002436,23,Full,Buildco,Labourer
+CLM002437,9,Full,Healthplus,Truck Driver
+CLM002438,71,Not Returned,Buildco,Office Administrator
+CLM002439,10,Full,Logitrans,Electrician
+CLM002440,28,Full,Retailmart,Truck Driver
+CLM002441,14,Full,Healthplus,Retail Assistant
+CLM002442,73,Not Returned,Logitrans,Retail Assistant
+CLM002443,52,Not Returned,Healthplus,Electrician
+CLM002444,24,Full,Logitrans,Support Worker
+CLM002445,57,Partial,Healthplus,Nurse
+CLM002446,10,Full,Agriworks,Office Administrator
+CLM002447,31,Not Returned,Healthplus,Office Administrator
+CLM002448,14,Full,Agriworks,Call Centre Agent
+CLM002449,75,Not Returned,Buildco,Warehouse Operator
+CLM002450,44,Full,Healthplus,Call Centre Agent
+CLM002451,55,Full,Buildco,Support Worker
+CLM002452,21,Partial,Retailmart,Call Centre Agent
+CLM002453,60,Full,Agriworks,Warehouse Operator
+CLM002454,13,Partial,Healthplus,Support Worker
+CLM002455,15,Full,Buildco,Warehouse Operator
+CLM002456,28,Partial,Logitrans,Retail Assistant
+CLM002457,15,Full,Buildco,Office Administrator
+CLM002458,58,Partial,Healthplus,Warehouse Operator
+CLM002459,22,Full,Retailmart,Labourer
+CLM002460,13,Full,Agriworks,Call Centre Agent
+CLM002461,12,Full,Logitrans,Warehouse Operator
+CLM002462,57,Not Returned,Buildco,Project Manager
+CLM002463,4,Full,Healthplus,Office Administrator
+CLM002464,14,Full,Healthplus,Warehouse Operator
+CLM002465,101,Not Returned,Agriworks,Call Centre Agent
+CLM002466,25,Full,Logitrans,Warehouse Operator
+CLM002467,58,Full,Buildco,Electrician
+CLM002468,46,Full,Buildco,Nurse
+CLM002469,28,Partial,Buildco,Project Manager
+CLM002470,8,Full,Agriworks,Call Centre Agent
+CLM002471,11,Full,Agriworks,Electrician
+CLM002472,11,Partial,Logitrans,Labourer
+CLM002473,48,Partial,Buildco,Nurse
+CLM002474,56,Full,Buildco,Truck Driver
+CLM002475,16,Full,Logitrans,Call Centre Agent
+CLM002476,31,Not Returned,Logitrans,Warehouse Operator
+CLM002477,33,Full,Logitrans,Nurse
+CLM002478,35,Partial,Healthplus,Warehouse Operator
+CLM002479,18,Full,Logitrans,Call Centre Agent
+CLM002480,122,Not Returned,Retailmart,Nurse
+CLM002481,56,Full,Agriworks,Nurse
+CLM002482,35,Partial,Logitrans,Warehouse Operator
+CLM002483,21,Full,Healthplus,Support Worker
+CLM002484,16,Full,Retailmart,Warehouse Operator
+CLM002485,45,Full,Healthplus,Project Manager
+CLM002486,22,Full,Healthplus,Labourer
+CLM002487,36,Full,Healthplus,Retail Assistant
+CLM002488,7,Partial,Healthplus,Support Worker
+CLM002489,21,Full,Buildco,Nurse
+CLM002490,30,Full,Agriworks,Warehouse Operator
+CLM002491,71,Full,Buildco,Call Centre Agent
+CLM002492,15,Full,Retailmart,Truck Driver
+CLM002493,10,Full,Buildco,Support Worker
+CLM002494,47,Partial,Retailmart,Labourer
+CLM002495,31,Full,Logitrans,Retail Assistant
+CLM002496,8,Full,Retailmart,Project Manager
+CLM002497,8,Full,Buildco,Support Worker
+CLM002498,19,Partial,Buildco,Call Centre Agent
+CLM002499,30,Full,Retailmart,Support Worker
+CLM002500,100,Partial,Buildco,Nurse
+CLM002501,13,Full,Retailmart,Labourer
+CLM002502,50,Partial,Healthplus,Support Worker
+CLM002503,6,Full,Agriworks,Electrician
+CLM002504,44,Partial,Retailmart,Labourer
+CLM002505,110,Partial,Healthplus,Office Administrator
+CLM002506,37,Full,Healthplus,Retail Assistant
+CLM002507,19,Full,Healthplus,Warehouse Operator
+CLM002508,88,Partial,Healthplus,Warehouse Operator
+CLM002509,43,Partial,Retailmart,Truck Driver
+CLM002510,37,Full,Buildco,Warehouse Operator
+CLM002511,14,Partial,Healthplus,Warehouse Operator
+CLM002512,44,Full,Logitrans,Nurse
+CLM002513,19,Full,Healthplus,Nurse
+CLM002514,42,Partial,Buildco,Retail Assistant
+CLM002515,34,Full,Buildco,Call Centre Agent
+CLM002516,78,Partial,Agriworks,Support Worker
+CLM002517,20,Partial,Agriworks,Office Administrator
+CLM002518,29,Full,Healthplus,Project Manager
+CLM002519,62,Partial,Healthplus,Labourer
+CLM002520,27,Full,Agriworks,Warehouse Operator
+CLM002521,32,Partial,Healthplus,Project Manager
+CLM002522,23,Full,Logitrans,Project Manager
+CLM002523,29,Partial,Retailmart,Labourer
+CLM002524,56,Full,Agriworks,Labourer
+CLM002525,143,Partial,Agriworks,Support Worker
+CLM002526,8,Full,Buildco,Labourer
+CLM002527,12,Full,Healthplus,Call Centre Agent
+CLM002528,29,Full,Agriworks,Labourer
+CLM002529,34,Full,Agriworks,Labourer
+CLM002530,27,Full,Logitrans,Office Administrator
+CLM002531,21,Full,Healthplus,Project Manager
+CLM002532,12,Full,Retailmart,Support Worker
+CLM002533,20,Full,Logitrans,Nurse
+CLM002534,63,Not Returned,Retailmart,Project Manager
+CLM002535,35,Not Returned,Buildco,Office Administrator
+CLM002536,56,Partial,Agriworks,Nurse
+CLM002537,12,Full,Logitrans,Nurse
+CLM002538,105,Partial,Retailmart,Warehouse Operator
+CLM002539,21,Full,Healthplus,Office Administrator
+CLM002540,48,Not Returned,Buildco,Support Worker
+CLM002541,29,Full,Buildco,Warehouse Operator
+CLM002542,21,Full,Agriworks,Labourer
+CLM002543,46,Full,Agriworks,Nurse
+CLM002544,53,Partial,Retailmart,Office Administrator
+CLM002545,284,Partial,Retailmart,Labourer
+CLM002546,55,Partial,Buildco,Labourer
+CLM002547,54,Partial,Retailmart,Retail Assistant
+CLM002548,82,Not Returned,Agriworks,Office Administrator
+CLM002549,50,Partial,Buildco,Labourer
+CLM002550,32,Partial,Buildco,Truck Driver
+CLM002551,42,Full,Healthplus,Labourer
+CLM002552,65,Full,Healthplus,Truck Driver
+CLM002553,100,Partial,Retailmart,Truck Driver
+CLM002554,9,Full,Retailmart,Call Centre Agent
+CLM002555,7,Full,Agriworks,Truck Driver
+CLM002556,97,Partial,Agriworks,Labourer
+CLM002557,17,Full,Healthplus,Truck Driver
+CLM002558,8,Full,Buildco,Labourer
+CLM002559,8,Full,Logitrans,Nurse
+CLM002560,139,Partial,Logitrans,Retail Assistant
+CLM002561,66,Partial,Retailmart,Office Administrator
+CLM002562,17,Full,Logitrans,Project Manager
+CLM002563,18,Full,Logitrans,Labourer
+CLM002564,34,Full,Healthplus,Support Worker
+CLM002565,65,Full,Buildco,Labourer
+CLM002566,26,Full,Agriworks,Call Centre Agent
+CLM002567,17,Full,Healthplus,Labourer
+CLM002568,82,Full,Agriworks,Labourer
+CLM002569,32,Partial,Healthplus,Warehouse Operator
+CLM002570,28,Full,Healthplus,Truck Driver
+CLM002571,53,Full,Logitrans,Labourer
+CLM002572,5,Partial,Agriworks,Electrician
+CLM002573,48,Partial,Healthplus,Labourer
+CLM002574,46,Full,Logitrans,Labourer
+CLM002575,10,Partial,Retailmart,Nurse
+CLM002576,7,Full,Agriworks,Project Manager
+CLM002577,21,Full,Healthplus,Labourer
+CLM002578,38,Not Returned,Retailmart,Labourer
+CLM002579,41,Partial,Logitrans,Truck Driver
+CLM002580,129,Partial,Healthplus,Nurse
+CLM002581,38,Partial,Logitrans,Truck Driver
+CLM002582,10,Full,Logitrans,Warehouse Operator
+CLM002583,27,Full,Logitrans,Support Worker
+CLM002584,11,Full,Agriworks,Warehouse Operator
+CLM002585,28,Full,Retailmart,Support Worker
+CLM002586,102,Not Returned,Retailmart,Truck Driver
+CLM002587,47,Full,Buildco,Truck Driver
+CLM002588,18,Full,Healthplus,Office Administrator
+CLM002589,53,Full,Logitrans,Retail Assistant
+CLM002590,17,Full,Healthplus,Warehouse Operator
+CLM002591,3,Full,Retailmart,Warehouse Operator
+CLM002592,12,Full,Retailmart,Call Centre Agent
+CLM002593,47,Full,Logitrans,Call Centre Agent
+CLM002594,61,Full,Agriworks,Labourer
+CLM002595,130,Partial,Logitrans,Call Centre Agent
+CLM002596,43,Full,Logitrans,Nurse
+CLM002597,97,Partial,Buildco,Truck Driver
+CLM002598,54,Partial,Agriworks,Electrician
+CLM002599,70,Partial,Healthplus,Office Administrator
+CLM002600,79,Full,Agriworks,Labourer
+CLM002601,48,Partial,Logitrans,Call Centre Agent
+CLM002602,78,Not Returned,Logitrans,Truck Driver
+CLM002603,18,Full,Logitrans,Warehouse Operator
+CLM002604,4,Full,Logitrans,Support Worker
+CLM002605,55,Full,Logitrans,Project Manager
+CLM002606,44,Full,Agriworks,Warehouse Operator
+CLM002607,16,Full,Logitrans,Warehouse Operator
+CLM002608,12,Full,Retailmart,Warehouse Operator
+CLM002609,36,Partial,Retailmart,Office Administrator
+CLM002610,58,Full,Buildco,Retail Assistant
+CLM002611,50,Partial,Healthplus,Call Centre Agent
+CLM002612,14,Full,Retailmart,Nurse
+CLM002613,17,Full,Buildco,Call Centre Agent
+CLM002614,56,Partial,Agriworks,Call Centre Agent
+CLM002615,35,Partial,Healthplus,Office Administrator
+CLM002616,77,Partial,Logitrans,Labourer
+CLM002617,25,Partial,Logitrans,Call Centre Agent
+CLM002618,59,Full,Agriworks,Support Worker
+CLM002619,32,Partial,Healthplus,Labourer
+CLM002620,18,Full,Retailmart,Office Administrator
+CLM002621,69,Partial,Healthplus,Project Manager
+CLM002622,14,Partial,Buildco,Nurse
+CLM002623,35,Full,Agriworks,Project Manager
+CLM002624,38,Full,Retailmart,Labourer
+CLM002625,30,Partial,Healthplus,Truck Driver
+CLM002626,73,Partial,Healthplus,Labourer
+CLM002627,52,Full,Retailmart,Warehouse Operator
+CLM002628,47,Not Returned,Buildco,Office Administrator
+CLM002629,34,Partial,Buildco,Office Administrator
+CLM002630,146,Partial,Healthplus,Truck Driver
+CLM002631,106,Partial,Logitrans,Call Centre Agent
+CLM002632,69,Partial,Retailmart,Office Administrator
+CLM002633,60,Full,Buildco,Retail Assistant
+CLM002634,20,Full,Buildco,Support Worker
+CLM002635,31,Partial,Buildco,Warehouse Operator
+CLM002636,55,Partial,Agriworks,Labourer
+CLM002637,76,Partial,Logitrans,Nurse
+CLM002638,67,Full,Buildco,Truck Driver
+CLM002639,52,Partial,Logitrans,Labourer
+CLM002640,164,Not Returned,Healthplus,Labourer
+CLM002641,29,Full,Healthplus,Labourer
+CLM002642,74,Partial,Agriworks,Office Administrator
+CLM002643,67,Not Returned,Logitrans,Warehouse Operator
+CLM002644,47,Partial,Retailmart,Labourer
+CLM002645,48,Partial,Agriworks,Office Administrator
+CLM002646,47,Full,Buildco,Truck Driver
+CLM002647,18,Full,Healthplus,Nurse
+CLM002648,45,Partial,Healthplus,Office Administrator
+CLM002649,60,Partial,Retailmart,Labourer
+CLM002650,42,Not Returned,Agriworks,Retail Assistant
+CLM002651,7,Full,Logitrans,Nurse
+CLM002652,9,Full,Healthplus,Project Manager
+CLM002653,17,Full,Buildco,Project Manager
+CLM002654,30,Partial,Retailmart,Truck Driver
+CLM002655,17,Full,Retailmart,Labourer
+CLM002656,55,Partial,Retailmart,Office Administrator
+CLM002657,85,Full,Buildco,Labourer
+CLM002658,96,Partial,Retailmart,Retail Assistant
+CLM002659,43,Full,Logitrans,Electrician
+CLM002660,78,Partial,Logitrans,Project Manager
+CLM002661,21,Full,Agriworks,Call Centre Agent
+CLM002662,29,Partial,Agriworks,Office Administrator
+CLM002663,13,Full,Logitrans,Office Administrator
+CLM002664,86,Full,Buildco,Nurse
+CLM002665,159,Partial,Agriworks,Support Worker
+CLM002666,25,Partial,Retailmart,Call Centre Agent
+CLM002667,5,Full,Logitrans,Retail Assistant
+CLM002668,15,Full,Healthplus,Office Administrator
+CLM002669,19,Full,Buildco,Retail Assistant
+CLM002670,11,Full,Buildco,Retail Assistant
+CLM002671,14,Full,Logitrans,Office Administrator
+CLM002672,39,Full,Healthplus,Nurse
+CLM002673,56,Partial,Buildco,Call Centre Agent
+CLM002674,6,Full,Agriworks,Support Worker
+CLM002675,21,Full,Healthplus,Labourer
+CLM002676,34,Full,Retailmart,Nurse
+CLM002677,14,Full,Agriworks,Project Manager
+CLM002678,40,Partial,Healthplus,Labourer
+CLM002679,30,Full,Logitrans,Truck Driver
+CLM002680,23,Full,Buildco,Electrician
+CLM002681,16,Partial,Agriworks,Call Centre Agent
+CLM002682,41,Full,Logitrans,Office Administrator
+CLM002683,17,Full,Healthplus,Truck Driver
+CLM002684,8,Full,Retailmart,Support Worker
+CLM002685,33,Partial,Buildco,Labourer
+CLM002686,12,Partial,Buildco,Project Manager
+CLM002687,8,Full,Agriworks,Support Worker
+CLM002688,36,Partial,Logitrans,Call Centre Agent
+CLM002689,29,Full,Healthplus,Office Administrator
+CLM002690,16,Full,Healthplus,Labourer
+CLM002691,39,Full,Logitrans,Project Manager
+CLM002692,46,Full,Buildco,Electrician
+CLM002693,40,Partial,Logitrans,Labourer
+CLM002694,38,Partial,Healthplus,Project Manager
+CLM002695,9,Full,Logitrans,Truck Driver
+CLM002696,93,Partial,Buildco,Support Worker
+CLM002697,51,Full,Agriworks,Call Centre Agent
+CLM002698,15,Full,Buildco,Labourer
+CLM002699,32,Partial,Retailmart,Office Administrator
+CLM002700,38,Full,Retailmart,Labourer
+CLM002701,32,Full,Logitrans,Office Administrator
+CLM002702,138,Partial,Buildco,Office Administrator
+CLM002703,6,Full,Buildco,Retail Assistant
+CLM002704,10,Full,Healthplus,Truck Driver
+CLM002705,5,Partial,Agriworks,Warehouse Operator
+CLM002706,35,Partial,Buildco,Retail Assistant
+CLM002707,51,Full,Logitrans,Office Administrator
+CLM002708,44,Partial,Healthplus,Call Centre Agent
+CLM002709,26,Partial,Healthplus,Labourer
+CLM002710,45,Not Returned,Logitrans,Retail Assistant
+CLM002711,26,Partial,Logitrans,Retail Assistant
+CLM002712,59,Full,Buildco,Truck Driver
+CLM002713,80,Partial,Buildco,Retail Assistant
+CLM002714,15,Partial,Healthplus,Nurse
+CLM002715,26,Full,Healthplus,Retail Assistant
+CLM002716,29,Full,Agriworks,Office Administrator
+CLM002717,103,Not Returned,Healthplus,Labourer
+CLM002718,17,Full,Logitrans,Call Centre Agent
+CLM002719,79,Full,Logitrans,Truck Driver
+CLM002720,10,Full,Agriworks,Warehouse Operator
+CLM002721,89,Partial,Retailmart,Labourer
+CLM002722,65,Full,Retailmart,Warehouse Operator
+CLM002723,29,Full,Logitrans,Nurse
+CLM002724,68,Partial,Retailmart,Labourer
+CLM002725,22,Full,Retailmart,Warehouse Operator
+CLM002726,15,Full,Agriworks,Nurse
+CLM002727,129,Partial,Healthplus,Project Manager
+CLM002728,21,Full,Healthplus,Truck Driver
+CLM002729,56,Full,Retailmart,Nurse
+CLM002730,80,Full,Buildco,Project Manager
+CLM002731,63,Full,Agriworks,Call Centre Agent
+CLM002732,53,Partial,Retailmart,Support Worker
+CLM002733,57,Full,Buildco,Support Worker
+CLM002734,77,Full,Buildco,Support Worker
+CLM002735,42,Full,Agriworks,Warehouse Operator
+CLM002736,32,Full,Healthplus,Nurse
+CLM002737,11,Partial,Logitrans,Office Administrator
+CLM002738,42,Not Returned,Buildco,Office Administrator
+CLM002739,75,Full,Logitrans,Truck Driver
+CLM002740,13,Full,Logitrans,Nurse
+CLM002741,27,Full,Agriworks,Truck Driver
+CLM002742,46,Partial,Healthplus,Office Administrator
+CLM002743,111,Partial,Agriworks,Project Manager
+CLM002744,13,Full,Buildco,Nurse
+CLM002745,62,Partial,Healthplus,Retail Assistant
+CLM002746,24,Full,Retailmart,Electrician
+CLM002747,19,Full,Healthplus,Call Centre Agent
+CLM002748,15,Full,Agriworks,Call Centre Agent
+CLM002749,19,Full,Agriworks,Labourer
+CLM002750,49,Partial,Logitrans,Project Manager
+CLM002751,27,Partial,Retailmart,Labourer
+CLM002752,58,Full,Healthplus,Office Administrator
+CLM002753,13,Full,Retailmart,Nurse
+CLM002754,57,Not Returned,Logitrans,Support Worker
+CLM002755,46,Partial,Retailmart,Call Centre Agent
+CLM002756,9,Full,Retailmart,Retail Assistant
+CLM002757,110,Not Returned,Healthplus,Support Worker
+CLM002758,43,Full,Retailmart,Project Manager
+CLM002759,61,Partial,Logitrans,Office Administrator
+CLM002760,83,Not Returned,Buildco,Labourer
+CLM002761,71,Partial,Buildco,Warehouse Operator
+CLM002762,29,Full,Agriworks,Truck Driver
+CLM002763,59,Full,Buildco,Labourer
+CLM002764,7,Full,Healthplus,Office Administrator
+CLM002765,45,Partial,Agriworks,Labourer
+CLM002766,132,Not Returned,Buildco,Support Worker
+CLM002767,18,Full,Buildco,Truck Driver
+CLM002768,68,Partial,Agriworks,Support Worker
+CLM002769,136,Partial,Healthplus,Labourer
+CLM002770,57,Full,Agriworks,Warehouse Operator
+CLM002771,75,Full,Healthplus,Nurse
+CLM002772,9,Full,Healthplus,Labourer
+CLM002773,15,Full,Logitrans,Office Administrator
+CLM002774,103,Not Returned,Buildco,Call Centre Agent
+CLM002775,71,Partial,Buildco,Labourer
+CLM002776,49,Full,Retailmart,Support Worker
+CLM002777,26,Partial,Agriworks,Support Worker
+CLM002778,41,Partial,Logitrans,Nurse
+CLM002779,133,Partial,Buildco,Office Administrator
+CLM002780,30,Full,Retailmart,Nurse
+CLM002781,57,Full,Logitrans,Support Worker
+CLM002782,56,Not Returned,Healthplus,Electrician
+CLM002783,19,Full,Buildco,Labourer
+CLM002784,20,Full,Agriworks,Call Centre Agent
+CLM002785,112,Partial,Logitrans,Office Administrator
+CLM002786,52,Partial,Retailmart,Nurse
+CLM002787,19,Full,Agriworks,Truck Driver
+CLM002788,25,Full,Healthplus,Office Administrator
+CLM002789,15,Full,Agriworks,Support Worker
+CLM002790,77,Full,Retailmart,Call Centre Agent
+CLM002791,27,Full,Healthplus,Electrician
+CLM002792,27,Full,Retailmart,Project Manager
+CLM002793,64,Partial,Buildco,Call Centre Agent
+CLM002794,8,Partial,Retailmart,Retail Assistant
+CLM002795,32,Partial,Agriworks,Labourer
+CLM002796,32,Full,Buildco,Office Administrator
+CLM002797,26,Full,Buildco,Warehouse Operator
+CLM002798,21,Full,Logitrans,Labourer
+CLM002799,18,Full,Agriworks,Office Administrator
+CLM002800,41,Not Returned,Agriworks,Truck Driver
+CLM002801,14,Partial,Healthplus,Support Worker
+CLM002802,37,Partial,Retailmart,Call Centre Agent
+CLM002803,21,Partial,Retailmart,Office Administrator
+CLM002804,22,Partial,Agriworks,Support Worker
+CLM002805,38,Partial,Retailmart,Warehouse Operator
+CLM002806,22,Full,Agriworks,Nurse
+CLM002807,91,Not Returned,Buildco,Nurse
+CLM002808,29,Full,Retailmart,Call Centre Agent
+CLM002809,76,Full,Retailmart,Labourer
+CLM002810,18,Full,Agriworks,Labourer
+CLM002811,17,Full,Agriworks,Call Centre Agent
+CLM002812,8,Full,Healthplus,Office Administrator
+CLM002813,22,Full,Retailmart,Support Worker
+CLM002814,27,Full,Logitrans,Labourer
+CLM002815,35,Not Returned,Agriworks,Support Worker
+CLM002816,57,Partial,Logitrans,Electrician
+CLM002817,54,Partial,Buildco,Retail Assistant
+CLM002818,82,Not Returned,Buildco,Truck Driver
+CLM002819,16,Partial,Logitrans,Labourer
+CLM002820,33,Partial,Buildco,Call Centre Agent
+CLM002821,14,Partial,Logitrans,Warehouse Operator
+CLM002822,46,Full,Healthplus,Nurse
+CLM002823,140,Partial,Healthplus,Warehouse Operator
+CLM002824,12,Full,Buildco,Truck Driver
+CLM002825,57,Partial,Logitrans,Call Centre Agent
+CLM002826,76,Partial,Logitrans,Call Centre Agent
+CLM002827,16,Full,Logitrans,Call Centre Agent
+CLM002828,46,Partial,Buildco,Warehouse Operator
+CLM002829,24,Full,Logitrans,Support Worker
+CLM002830,30,Full,Agriworks,Call Centre Agent
+CLM002831,24,Full,Logitrans,Call Centre Agent
+CLM002832,27,Full,Agriworks,Electrician
+CLM002833,83,Partial,Healthplus,Warehouse Operator
+CLM002834,31,Partial,Agriworks,Truck Driver
+CLM002835,20,Full,Healthplus,Support Worker
+CLM002836,34,Full,Buildco,Call Centre Agent
+CLM002837,6,Full,Healthplus,Support Worker
+CLM002838,17,Partial,Healthplus,Retail Assistant
+CLM002839,89,Not Returned,Logitrans,Labourer
+CLM002840,29,Partial,Retailmart,Call Centre Agent
+CLM002841,22,Full,Healthplus,Office Administrator
+CLM002842,38,Full,Agriworks,Labourer
+CLM002843,59,Partial,Buildco,Labourer
+CLM002844,95,Not Returned,Agriworks,Electrician
+CLM002845,23,Full,Buildco,Labourer
+CLM002846,23,Full,Agriworks,Warehouse Operator
+CLM002847,27,Full,Healthplus,Project Manager
+CLM002848,75,Partial,Retailmart,Truck Driver
+CLM002849,34,Full,Healthplus,Warehouse Operator
+CLM002850,187,Partial,Logitrans,Office Administrator
+CLM002851,29,Partial,Agriworks,Office Administrator
+CLM002852,135,Partial,Retailmart,Electrician
+CLM002853,16,Full,Agriworks,Truck Driver
+CLM002854,10,Full,Logitrans,Electrician
+CLM002855,30,Full,Logitrans,Warehouse Operator
+CLM002856,82,Full,Logitrans,Call Centre Agent
+CLM002857,22,Full,Healthplus,Labourer
+CLM002858,20,Full,Healthplus,Labourer
+CLM002859,75,Partial,Retailmart,Truck Driver
+CLM002860,58,Partial,Logitrans,Labourer
+CLM002861,17,Full,Healthplus,Office Administrator
+CLM002862,16,Full,Buildco,Electrician
+CLM002863,64,Partial,Buildco,Nurse
+CLM002864,8,Full,Healthplus,Labourer
+CLM002865,78,Full,Retailmart,Truck Driver
+CLM002866,57,Partial,Agriworks,Retail Assistant
+CLM002867,5,Full,Logitrans,Truck Driver
+CLM002868,33,Full,Healthplus,Office Administrator
+CLM002869,6,Full,Retailmart,Warehouse Operator
+CLM002870,12,Full,Agriworks,Labourer
+CLM002871,22,Partial,Retailmart,Truck Driver
+CLM002872,12,Full,Agriworks,Warehouse Operator
+CLM002873,195,Not Returned,Buildco,Retail Assistant
+CLM002874,66,Full,Agriworks,Support Worker
+CLM002875,98,Partial,Buildco,Office Administrator
+CLM002876,29,Full,Logitrans,Truck Driver
+CLM002877,33,Full,Healthplus,Truck Driver
+CLM002878,117,Not Returned,Buildco,Call Centre Agent
+CLM002879,46,Full,Retailmart,Retail Assistant
+CLM002880,54,Partial,Agriworks,Project Manager
+CLM002881,15,Full,Retailmart,Retail Assistant
+CLM002882,15,Full,Buildco,Electrician
+CLM002883,40,Full,Retailmart,Truck Driver
+CLM002884,44,Partial,Agriworks,Call Centre Agent
+CLM002885,14,Partial,Healthplus,Labourer
+CLM002886,44,Partial,Retailmart,Warehouse Operator
+CLM002887,12,Full,Logitrans,Labourer
+CLM002888,33,Partial,Agriworks,Labourer
+CLM002889,10,Full,Agriworks,Support Worker
+CLM002890,95,Not Returned,Logitrans,Labourer
+CLM002891,25,Full,Buildco,Retail Assistant
+CLM002892,19,Full,Logitrans,Electrician
+CLM002893,13,Full,Buildco,Labourer
+CLM002894,12,Full,Healthplus,Warehouse Operator
+CLM002895,46,Partial,Buildco,Electrician
+CLM002896,73,Full,Healthplus,Electrician
+CLM002897,68,Not Returned,Healthplus,Retail Assistant
+CLM002898,101,Not Returned,Logitrans,Project Manager
+CLM002899,134,Not Returned,Healthplus,Project Manager
+CLM002900,71,Not Returned,Buildco,Support Worker
+CLM002901,22,Full,Retailmart,Warehouse Operator
+CLM002902,37,Not Returned,Agriworks,Truck Driver
+CLM002903,5,Full,Agriworks,Warehouse Operator
+CLM002904,55,Partial,Buildco,Electrician
+CLM002905,37,Partial,Retailmart,Office Administrator
+CLM002906,118,Partial,Healthplus,Electrician
+CLM002907,18,Full,Buildco,Warehouse Operator
+CLM002908,50,Full,Healthplus,Office Administrator
+CLM002909,14,Partial,Logitrans,Office Administrator
+CLM002910,30,Full,Retailmart,Retail Assistant
+CLM002911,8,Full,Agriworks,Warehouse Operator
+CLM002912,97,Not Returned,Buildco,Retail Assistant
+CLM002913,76,Full,Agriworks,Electrician
+CLM002914,22,Full,Healthplus,Truck Driver
+CLM002915,40,Partial,Healthplus,Electrician
+CLM002916,34,Full,Logitrans,Call Centre Agent
+CLM002917,20,Full,Healthplus,Warehouse Operator
+CLM002918,36,Full,Healthplus,Warehouse Operator
+CLM002919,23,Full,Agriworks,Retail Assistant
+CLM002920,72,Partial,Agriworks,Truck Driver
+CLM002921,27,Full,Buildco,Warehouse Operator
+CLM002922,224,Not Returned,Buildco,Call Centre Agent
+CLM002923,31,Partial,Healthplus,Support Worker
+CLM002924,36,Full,Retailmart,Labourer
+CLM002925,50,Full,Buildco,Office Administrator
+CLM002926,64,Full,Healthplus,Warehouse Operator
+CLM002927,35,Full,Agriworks,Labourer
+CLM002928,49,Partial,Logitrans,Support Worker
+CLM002929,38,Partial,Agriworks,Office Administrator
+CLM002930,17,Full,Agriworks,Labourer
+CLM002931,14,Full,Logitrans,Support Worker
+CLM002932,57,Full,Agriworks,Warehouse Operator
+CLM002933,111,Partial,Buildco,Labourer
+CLM002934,8,Full,Agriworks,Labourer
+CLM002935,10,Full,Logitrans,Labourer
+CLM002936,10,Full,Healthplus,Warehouse Operator
+CLM002937,61,Full,Healthplus,Electrician
+CLM002938,65,Not Returned,Healthplus,Support Worker
+CLM002939,15,Full,Logitrans,Labourer
+CLM002940,193,Not Returned,Logitrans,Labourer
+CLM002941,24,Full,Buildco,Warehouse Operator
+CLM002942,104,Not Returned,Logitrans,Electrician
+CLM002943,63,Partial,Healthplus,Nurse
+CLM002944,15,Full,Logitrans,Labourer
+CLM002945,23,Partial,Retailmart,Support Worker
+CLM002946,16,Full,Agriworks,Office Administrator
+CLM002947,11,Full,Buildco,Labourer
+CLM002948,27,Full,Healthplus,Call Centre Agent
+CLM002949,12,Full,Healthplus,Nurse
+CLM002950,28,Full,Retailmart,Labourer
+CLM002951,155,Not Returned,Buildco,Call Centre Agent
+CLM002952,57,Partial,Agriworks,Truck Driver
+CLM002953,21,Full,Buildco,Call Centre Agent
+CLM002954,19,Full,Buildco,Nurse
+CLM002955,24,Full,Healthplus,Office Administrator
+CLM002956,173,Partial,Logitrans,Nurse
+CLM002957,13,Partial,Agriworks,Truck Driver
+CLM002958,33,Full,Buildco,Office Administrator
+CLM002959,48,Full,Retailmart,Labourer
+CLM002960,87,Partial,Healthplus,Call Centre Agent
+CLM002961,25,Full,Logitrans,Truck Driver
+CLM002962,15,Full,Logitrans,Nurse
+CLM002963,41,Full,Healthplus,Retail Assistant
+CLM002964,94,Not Returned,Buildco,Electrician
+CLM002965,26,Partial,Healthplus,Labourer
+CLM002966,16,Full,Logitrans,Retail Assistant
+CLM002967,36,Partial,Logitrans,Support Worker
+CLM002968,9,Full,Retailmart,Truck Driver
+CLM002969,27,Full,Retailmart,Electrician
+CLM002970,84,Full,Logitrans,Office Administrator
+CLM002971,66,Full,Retailmart,Nurse
+CLM002972,29,Full,Retailmart,Retail Assistant
+CLM002973,124,Partial,Retailmart,Warehouse Operator
+CLM002974,152,Partial,Logitrans,Warehouse Operator
+CLM002975,56,Partial,Buildco,Nurse
+CLM002976,10,Partial,Buildco,Retail Assistant
+CLM002977,7,Partial,Agriworks,Retail Assistant
+CLM002978,100,Not Returned,Retailmart,Warehouse Operator
+CLM002979,40,Full,Buildco,Retail Assistant
+CLM002980,122,Not Returned,Agriworks,Warehouse Operator
+CLM002981,11,Full,Healthplus,Project Manager
+CLM002982,29,Full,Retailmart,Office Administrator
+CLM002983,75,Partial,Buildco,Labourer
+CLM002984,18,Full,Buildco,Labourer
+CLM002985,74,Not Returned,Buildco,Labourer
+CLM002986,30,Partial,Agriworks,Warehouse Operator
+CLM002987,33,Partial,Healthplus,Truck Driver
+CLM002988,12,Full,Retailmart,Warehouse Operator
+CLM002989,40,Not Returned,Buildco,Project Manager
+CLM002990,191,Partial,Logitrans,Call Centre Agent
+CLM002991,45,Not Returned,Retailmart,Truck Driver
+CLM002992,17,Full,Logitrans,Warehouse Operator
+CLM002993,101,Partial,Agriworks,Retail Assistant
+CLM002994,18,Partial,Buildco,Call Centre Agent
+CLM002995,131,Partial,Retailmart,Retail Assistant
+CLM002996,11,Partial,Retailmart,Project Manager
+CLM002997,41,Full,Buildco,Labourer
+CLM002998,112,Not Returned,Healthplus,Labourer
+CLM002999,16,Full,Agriworks,Electrician
+CLM003000,35,Partial,Buildco,Retail Assistant
